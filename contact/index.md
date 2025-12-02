@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is proudly supported by the [University Health Network (UHN)](http://www.uhn.ca), [Sunnybrook Research Institute (SRI)](https://research.sunnybrook.ca/), and the [University of Toronto (UofT)](https://www.utoronto.ca/). We are based in various locations across Toronto, Canada depending on the project and collaboration. For general inquiries, please contact us using the information below.
+Our lab is proudly supported by the [University Health Network (UHN)](http://www.uhn.ca), [Sunnybrook Research Institute (SRI)](https://research.sunnybrook.ca/), and the [University of Toronto (UofT)](https://www.utoronto.ca/). We are based in various locations across Toronto, Canada depending on the project and collaboration. For general inquiries, please contact us.
 
 {%
   include button.html

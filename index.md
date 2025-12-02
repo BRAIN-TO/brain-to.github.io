@@ -28,7 +28,7 @@ Our recent publications cover a wide range of topics in neuroimaging, from novel
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -40,7 +40,7 @@ Our recent publications cover a wide range of topics in neuroimaging, from novel
 {%
   include feature.html
   image="images/publication.jpg"
-  link="research"
+  link="publications"
   title="Our Research"
   text=text
 %}
@@ -51,7 +51,7 @@ The BRAIN-TO Lab strives for advancing our understanding of the human brain by r
 
 {%
   include button.html
-  link="projects"
+  link="research"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -63,7 +63,7 @@ The BRAIN-TO Lab strives for advancing our understanding of the human brain by r
 {%
   include feature.html
   image="images/research_area.png"
-  link="projects"
+  link="research"
   title="Our Projects"
   flip=true
   style="bare"
