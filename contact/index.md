@@ -40,6 +40,11 @@ Our lab is proudly supported by the [University Health Network (UHN)](http://www
   image="images/cfi.png"
 %}
 
+{%
+  include figure.html
+  image="images/slaight.jpg"
+%}
+
 {% endcapture %}
 
 {% capture col2 %}
@@ -47,6 +52,11 @@ Our lab is proudly supported by the [University Health Network (UHN)](http://www
 {%
   include figure.html
   image="images/crc.jpg"
+%}
+
+{%
+  include figure.html
+  image="images/koerner.png"
 %}
 
 {% endcapture %}
