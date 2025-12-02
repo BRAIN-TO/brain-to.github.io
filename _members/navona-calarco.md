@@ -2,12 +2,13 @@
 name: Navona Calarco
 image: images/navona.jpg
 role: phd
-affiliation: University Health Network
-description: Grauate Student
+affiliation: University of Toronto
+description: Graduate Student
 group: 
 links:
   google-scholar: kE4iBC0AAAAJ&hl=en%C2%A0
   website: https://www.navonacalarco.ca/
+aliases:
 ---
 
 Navona joined the BRAIN-TO lab as a PhD student in Medical Biophysics in 2022. Previously, she completed an MSc in Medical Science, working with Dr. Aristotle Voineskos at the Centre for Addiction and Mental Health. Her research interest is to apply emerging techniques in medical imaging and statistics to understand what goes wrong in the brain in psychiatric illness and neurodegenerative disorders. The ultimate goal of this work is to illuminate early markers of disease, and identify treatment targets.

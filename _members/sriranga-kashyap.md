@@ -10,6 +10,7 @@ links:
   google-scholar: 3pCgJq4AAAAJ&hl=en
   orcid: 0000-0003-0307-9773
   twitter: srirangakashyap
+aliases:
 ---
 
 I'm an interdisciplinary scientist in the BRAIN-TO lab working on developing acquisition and analysis methods for neuroscientific and clinical applications of MRI.

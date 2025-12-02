@@ -9,6 +9,7 @@ links:
   google-scholar: PL1XGecAAAAJ&hl=de
   orcid: 0000-0001-7667-603X
   twitter: mrikasper
+aliases:
 ---
 
 Dr. Lars Kasper is a scientific associate at the BRAIN-To lab since 2020. He has more than 12 years of expertise in technological development and neuroscientific application of structural and functional MRI in humans, at both high (3 Tesla) and ultra-high (7 Tesla) magnetic field strength.
