@@ -33,53 +33,67 @@ Our lab is proudly supported by the [University Health Network (UHN)](http://www
 
 # Sponsors & Partners
 
-{% capture col1 %}
+{% capture content %}
 
 {%
   include figure.html
-  image="images/cfi.png"
+  image="images/uhn.svg"
+  height="200px"
+%}
+
+
+
+{%
+  include figure.html
+  image="images/crc.jpg"
+  height="200px"
 %}
 
 {%
   include figure.html
   image="images/slaight.jpg"
+  height="200px"
 %}
-
-{% endcapture %}
-
-{% capture col2 %}
 
 {%
   include figure.html
-  image="images/crc.jpg"
+  image="images/shsc.svg"
+  height="200px"
+%}
+
+{%
+  include figure.html
+  image="images/cfi.png"
+  height="200px"
 %}
 
 {%
   include figure.html
   image="images/koerner.png"
+  height="200px"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% include grid.html content=content %}
 
 {% include section.html dark=true %}
 
 # Visit Us
 
-As an interdisciplinary lab, we have offices at multiple UHN sites. You will find us here:
+As an interdisciplinary lab, we have offices at various sites. You will find us here:
 
 {% capture col1 %}
-Techna Institute
+Sunnybrook Research Institute
 
-101 College Street, Princess Margaret Cancer Research Tower
-7th Floor, Room 7-208
-Toronto, ON, Canada, M5G 1L7
+2075 Bayview Avenue,
+AG 00 (A-wing, ground floor),
+Toronto, ON, Canada, M4N 3M5
 
 {% endcapture %}
 
 {% capture col2 %}
-Toronto General Hospital
+Techna Institute
 
 200 Elizabeth Street, 
 BPMB 160 (B-Floor, Peter Munk Building),

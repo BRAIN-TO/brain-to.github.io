@@ -13,9 +13,9 @@ Our interdisciplinary team of researchers, engineers, and clinicians is dedicate
 
 {% include list.html data="members" component="portrait" filter="role == 'principal investigator'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc' and group != 'alum'" %}
-{% include list.html data="members" component="portrait" filter="role == 'staff' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'msc' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'staff' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and group != 'alum'" %}
 
 {% comment %}
@@ -23,7 +23,7 @@ If you are interested in joining our team, please visit our [Join Us](/careers) 
 {% endcomment %}
 
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/background_dark.jpg" dark=false %}
 
 # Alumni
 

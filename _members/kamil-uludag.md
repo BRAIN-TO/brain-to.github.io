@@ -3,13 +3,15 @@ name: Kâmil Uludağ
 image: images/kamil.jpg
 role: principal investigator
 affiliation: University of Toronto
-description: Professor & Senior Scientist
+description: Professor
 group:
 aliases:
   - K. Uludag
   - K Uludag
   - Kamil Uludag
   - Kâmil Uludağ
+  - Kamil Uludağ
+  - Kâmil Uludag
 links:
   orcid: 0000-0002-2813-5930
 ---

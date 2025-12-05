@@ -11,6 +11,9 @@ links:
   orcid: 0000-0003-0307-9773
   twitter: srirangakashyap
 aliases:
+- Sriranga Kashyap
+- S. Kashyap
+- S Kashyap
 ---
 
 I'm an interdisciplinary scientist in the BRAIN-TO lab working on developing acquisition and analysis methods for neuroscientific and clinical applications of MRI.

@@ -43,20 +43,24 @@
   tags:
     - clinical
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Diffusion Spiral MRI
+  subtitle: Lars Kasper
   tags:
-    - software
+  - mr-physics
+  
+- title: Motion-corrected wave-CAIPI Imaging
+  subtitle: Zhe Wu
+  image: images/MC_wave-CAIPI.png
+  tags:
+  - mr-physics
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Motion Correction
+  subtitle: Brian Nghiem
+  image: images/mc.png
   tags:
-    - software
+    - mr-physics
+
+- title: Quantitative Perfusion Imaging with Dynamic Susceptibility Hypoxia Contrast
+  subtitle: Jacob Schulman
+  tags:
+    - clinical

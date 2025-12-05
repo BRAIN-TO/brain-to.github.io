@@ -1,8 +1,8 @@
 # site properties and page defaults
 title: BRAIN-TO Lab
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/background.jpg
-footer: images/background.jpg
+header: "images/background_dark.jpg"
+footer: "images/background_light.jpg"
 proofer: false
 
 # site social media and other links

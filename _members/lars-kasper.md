@@ -10,6 +10,9 @@ links:
   orcid: 0000-0001-7667-603X
   twitter: mrikasper
 aliases:
+- Lars Kasper
+- L. Kasper
+- L Kasper
 ---
 
 Dr. Lars Kasper is a scientific associate at the BRAIN-To lab since 2020. He has more than 12 years of expertise in technological development and neuroscientific application of structural and functional MRI in humans, at both high (3 Tesla) and ultra-high (7 Tesla) magnetic field strength.
@@ -20,8 +23,7 @@ His PhD (2008-2013) at the Institute for Biomedical Engineering (ETH Zurich and 
 
 His post-doctoral (2014-2016) as well as senior research fellow (2016-2019) appointments at the Institute for Biomedical Engineering (ETH Zurich and University of Zurich, Switzerland) deepened this translational approach and converged in ultra-high resolution spiral imaging applications for anatomical MRI and layer-specific functional MRI.
 
-**Improving MRI by Mechanistic Models of Signal Encoding**
-
+**Improving MRI by Mechanistic Models of Signal Encoding.**
 Magnetic resonance imaging (MRI) offers a unique opportunity to non-invasively study the human brain, in a favourable window of spatiotemporal resolution. But to expand its clinical and neuroscientific scope, MRI has to become faster and more robust. A key ingredient to this end is a mechanistic understanding of the imaging physics, and its consideration in the way we acquire and reconstruct MR images. This comprises the choice of optimal sequence and sampling strategy for the target application (e.g., spiral trajectories for short echo-time) 
 a detailed characterization of both hardware imperfections (e.g., heating/field drift and trajectory errors) and subject-related noise sources (e.g., breathing, motion) giving rise to image artifacts, the accurate inclusion of this information into an expanded signal model of the MR imaging process and advanced image reconstruction techniques capable of inverting these intricate models.
 

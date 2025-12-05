@@ -11,13 +11,17 @@ A second pillar of the research of the BRAIN-TO lab is to develop novel approach
 
 In addition, we optimize image acquisition for clinical questions and advise clinical research groups on data analysis. We collaborate extensively with clinical groups to translate cutting-edge MRI acquisition and analysis into clinical practice.
 
+{% include figure.html image="images/lab-group-pic.jpg" width="100%" %}
+
+{% comment %}
 {%
   include button.html
   type="github"
   text="On GitHub"
   link="brain-to"
 %}
-
+{% endcomment %
+}
 {% include section.html %}
 
 ## Highlights

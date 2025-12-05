@@ -7,6 +7,9 @@ description: Graduate Student
 group: 
 links:
 aliases:
+- Brian Nghiem
+- B. Nghiem
+- B Nghiem
 ---
 
 Brian Nghiem is pursuing a Master’s degree in the Department of Medical Biophysics at the University of Toronto (U of T). He is interested in investigating applications of deep learning to carry out motion correction in MR neuroimaging. He received his Bachelor of Science degree at U of T in 2019, having completed the Biological Physics Specialist program with high distinction.
