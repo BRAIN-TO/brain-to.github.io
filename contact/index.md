@@ -15,12 +15,16 @@ Our lab is proudly supported by the [University Health Network (UHN)](http://www
   text="Kamil.Uludag@uhn.ca"
   link="Kamil.Uludag@uhn.ca"
 %}
+
+{% comment %}
 {%
   include button.html
   type="phone"
   text="(416) 603-2581"
   link="+14166032581"
 %}
+{% endcomment %}
+
 {%
   include button.html
   type="address"
@@ -93,11 +97,11 @@ Toronto, ON, Canada, M4N 3M5
 {% endcapture %}
 
 {% capture col2 %}
-Techna Institute
+Princess Margaret Cancer Research Tower
 
-200 Elizabeth Street, 
-BPMB 160 (B-Floor, Peter Munk Building),
-Toronto, ON, Canada, M5G 2C4
+101 College Street,
+7th Floor, Room 7-208,
+Toronto, ON, Canada, M5G 1L7
 
 {% endcapture %}
 
