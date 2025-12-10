@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2025.12.06.692728
+  title: Multiscale characterisation of the human claustrum from histology to MRI
+  authors:
+  - Navona Calarco
+  - Skerdi Progri
+  - Sriranga Kashyap
+  - Shuting Xie
+  - Claude Lepage
+  - Boris C. Bernhardt
+  - Alan C. Evans
+  - Kamil Uludag
+  publisher: openRxiv
+  date: '2025-12-09'
+  link: https://doi.org/hbd8mr
+  orcid: 0000-0002-2813-5930
+  kamil-uludag: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1162/imag_a_00556
   title: Problems and solutions in quantifying cerebrovascular reactivity using BOLD-MRI
   authors:
