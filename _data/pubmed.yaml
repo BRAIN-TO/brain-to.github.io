@@ -1,1 +1,1 @@
-term: (((%22Uludag+K%22[au])+AND+(%22Techna+Institute%22[Affiliation]))+AND+((%222019%22[Date+-+Publication]+%3A+%223000%22[Date+-+Publication])))+OR+(((%22Kasper+L%22[au])+AND+(%22Techna+Institute%22[Affiliation]))+AND+((%222020%22[Date+-+Publication]+%3A+%223000%22[Date+-+Publication])))&sort=pubdate&dispmax=50
+- term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))

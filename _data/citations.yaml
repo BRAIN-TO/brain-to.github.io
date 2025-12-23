@@ -1,5 +1,741 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:40883879
+  title: A network-assisted joint image and motion estimation approach for robust
+    3D MRI motion correction across severity levels.
+  authors:
+  - Brian Nghiem
+  - Zhe Wu
+  - Sriranga Kashyap
+  - Lars Kasper
+  - "K\xE2mil Uluda\u011F"
+  publisher: Magnetic resonance in medicine
+  date: '2025-08-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40883879
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40800793
+  title: Problems and solutions in quantifying cerebrovascular reactivity using BOLD-MRI.
+  authors:
+  - Jacob B Schulman
+  - "Kamil Uluda\u011F"
+  publisher: Imaging neuroscience (Cambridge, Mass.)
+  date: '2025-05-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40800793
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40800338
+  title: Transformer-aided dynamic causal model for scalable estimation of effective
+    connectivity.
+  authors:
+  - Sayan Nag
+  - Kamil Uludag
+  publisher: Imaging neuroscience (Cambridge, Mass.)
+  date: '2024-09-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40800338
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39963739
+  title: 'Whole-brain BOLD responses to graded hypoxic challenges at 7 T, 9.4 T, and
+    15.2 T: Implications for ultrahigh-field functional and dynamic susceptibility
+    contrast MRI.'
+  authors:
+  - Thuy Thi Le
+  - Sang Han Choi
+  - Geun Ho Im
+  - Chanhee Lee
+  - Dongkyu Lee
+  - Jacob Schulman
+  - HyungJoon Cho
+  - "Kamil Uluda\u011F"
+  - Seong-Gi Kim
+  publisher: Magnetic resonance in medicine
+  date: '2025-02-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39963739
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39829870
+  title: Predictive acoustical processing in human cortical layers.
+  authors:
+  - Lonike K Faes
+  - Isma Zulfiqar
+  - Luca Vizioli
+  - Zidan Yu
+  - Yuan-Hao Wu
+  - Jiyun Shin
+  - Martijn A Cloos
+  - Ryszard Auksztulewicz
+  - Lucia Melloni
+  - Kamil Uludag
+  - Essa Yacoub
+  - Federico De Martino
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2025-01-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39829870
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39826636
+  title: Functional MRI reveals brain activation patterns associated with optimization
+    of spinal cord stimulation parameters in treating chronic pain.
+  authors:
+  - Artur Vetkas
+  - Cletus Cheyuo
+  - Ajmal Zemmar
+  - Brendan Santyr
+  - Clement T Chow
+  - Sriranga Kashyap
+  - Benson Yang
+  - Mia Mojica
+  - Alexandre Boutet
+  - Can Sarica
+  - "J\xFCrgen Germann"
+  - Stefan Lang
+  - Mohammad M Hajiabadi
+  - Andrew Z Yang
+  - Simon J Graham
+  - "K\xE2mil Uluda\u011F"
+  - Anuj Bhatia
+  - Andres M Lozano
+  publisher: Brain stimulation
+  date: '2025-01-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39826636
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39602889
+  title: Phantom Safety Assessment of 3 Tesla Magnetic Resonance Imaging in Directional
+    and Sensing Deep Brain Stimulation Devices.
+  authors:
+  - Riccardo Ludovichetti
+  - Clement T Chow
+  - Sriranga Kashyap
+  - Ian Connell
+  - Benson Yang
+  - Simon J Graham
+  - Gavin Elias
+  - Brendan Santyr
+  - Asma Naheed
+  - Diego Martinez
+  - Michael Colditz
+  - "J\xFCrgen Germann"
+  - Artur Vetkas
+  - "K\xE2mil Uluda\u011F"
+  - Andres M Lozano
+  - Alexandre Boutet
+  publisher: Stereotactic and functional neurosurgery
+  date: '2024-11-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39602889
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40800542
+  title: 'The coming decade of digital brain research: A vision for neuroscience at
+    the intersection of technology and computing.'
+  authors:
+  - Katrin Amunts
+  - Markus Axer
+  - Swati Banerjee
+  - Lise Bitsch
+  - Jan G Bjaalie
+  - Philipp Brauner
+  - Andrea Brovelli
+  - Navona Calarco
+  - Marcel Carrere
+  - Svenja Caspers
+  - Christine J Charvet
+  - Sven Cichon
+  - Roshan Cools
+  - Irene Costantini
+  - Egidio Ugo D'Angelo
+  - Giulia De Bonis
+  - Gustavo Deco
+  - Javier DeFelipe
+  - Alain Destexhe
+  - Timo Dickscheid
+  - Markus Diesmann
+  - "Emrah D\xFCzel"
+  - Simon B Eickhoff
+  - Gaute Einevoll
+  - Damian Eke
+  - Andreas K Engel
+  - Alan C Evans
+  - Kathinka Evers
+  - Nataliia Fedorchenko
+  - Stephanie J Forkel
+  - Jan Fousek
+  - Angela D Friederici
+  - Karl Friston
+  - Stephen Furber
+  - Liesbet Geris
+  - Rainer Goebel
+  - "Onur G\xFCnt\xFCrk\xFCn"
+  - Aini Ismafairus Abd Hamid
+  - Christina Herold
+  - Claus C Hilgetag
+  - "Sabine M H\xF6lter"
+  - Yannis Ioannidis
+  - Viktor Jirsa
+  - Sriranga Kashyap
+  - Burkhard S Kasper
+  - Alban de Kerchove d'Exaerde
+  - Roxana Kooijmans
+  - "Istv\xE1n Koren"
+  - Jeanette Hellgren Kotaleski
+  - Gregory Kiar
+  - Wouter Klijn
+  - "Lars Kl\xFCver"
+  - Alois C Knoll
+  - Zeljka Krsnik
+  - "Julia K\xE4mpfer"
+  - Matthew E Larkum
+  - Marja-Leena Linne
+  - Thomas Lippert
+  - Jafri Malin Abdullah
+  - Paola Di Maio
+  - Neville Magielse
+  - Pierre Maquet
+  - Anna Letizia Allegra Mascaro
+  - Daniele Marinazzo
+  - Jorge Mejias
+  - Andreas Meyer-Lindenberg
+  - Michele Migliore
+  - Judith Michael
+  - Yannick Morel
+  - Fabrice O Morin
+  - Lars Muckli
+  - Guy Nagels
+  - Lena Oden
+  - Nicola Palomero-Gallagher
+  - Fanis Panagiotaropoulos
+  - Pier Stanislao Paolucci
+  - Cyriel Pennartz
+  - Liesbet M Peeters
+  - Spase Petkoski
+  - Nicolai Petkov
+  - Lucy S Petro
+  - Mihai A Petrovici
+  - Giovanni Pezzulo
+  - Pieter Roelfsema
+  - Laurence Ris
+  - Petra Ritter
+  - Kathleen Rockland
+  - Stefan Rotter
+  - Andreas Rowald
+  - Sabine Ruland
+  - Philippe Ryvlin
+  - Arleen Salles
+  - Maria V Sanchez-Vives
+  - Johannes Schemmel
+  - Walter Senn
+  - Alexandra A de Sousa
+  - "Felix Str\xF6ckens"
+  - Bertrand Thirion
+  - "K\xE2mil Uluda\u011F"
+  - Simo Vanni
+  - Sacha Jennifer van Albada
+  - Wim Vanduffel
+  - Julien Vezoli
+  - Lisa Vincenz-Donnelly
+  - Florian Walter
+  - Laszlo Zaborszky
+  publisher: Imaging neuroscience (Cambridge, Mass.)
+  date: '2024-04-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40800542
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38235379
+  title: Feasibility of high-resolution perfusion imaging using arterial spin labeling
+    MRI at 3 Tesla.
+  authors:
+  - Sriranga Kashyap
+  - "\xCDcaro Agenor Ferreira Oliveira"
+  - "K\xE2mil Uluda\u011F"
+  publisher: Frontiers in physiology
+  date: '2024-01-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38235379
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37554650
+  title: DSC MRI in the human brain using deoxyhemoglobin and gadolinium-Simulations
+    and validations at 3T.
+  authors:
+  - Jacob Benjamin Schulman
+  - Ece Su Sayin
+  - Angelica Manalac
+  - Julien Poublanc
+  - Olivia Sobczyk
+  - James Duffin
+  - Joseph A Fisher
+  - David Mikulis
+  - "K\xE2mil Uluda\u011F"
+  publisher: Frontiers in neuroimaging
+  date: '2023-02-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37554650
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37356779
+  title: 'Physiological modeling of the BOLD signal and implications for effective
+    connectivity: A primer.'
+  authors:
+  - "K\xE2mil Uluda\u011F"
+  publisher: NeuroImage
+  date: '2023-06-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37356779
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37081247
+  title: "Magnetic resonance imaging at 9.4\_T: the Maastricht journey."
+  authors:
+  - Dimo Ivanov
+  - Federico De Martino
+  - Elia Formisano
+  - Francisco J Fritz
+  - Rainer Goebel
+  - Laurentius Huber
+  - Sriranga Kashyap
+  - Valentin G Kemper
+  - Denizhan Kurban
+  - Alard Roebroeck
+  - Shubharthi Sengupta
+  - Bettina Sorger
+  - Desmond H Y Tse
+  - "K\xE2mil Uluda\u011F"
+  - Christopher J Wiggins
+  - Benedikt A Poser
+  publisher: Magma (New York, N.Y.)
+  date: '2023-04-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37081247
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36936613
+  title: 'Dynamic Effective Connectivity using Physiologically informed Dynamic Causal
+    Model with Recurrent Units: A functional Magnetic Resonance Imaging simulation
+    study.'
+  authors:
+  - Sayan Nag
+  - Kamil Uludag
+  publisher: Frontiers in human neuroscience
+  date: '2023-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36936613
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36651306
+  title: Editorial for "Comparison of a Deep Learning-Accelerated vs. Conventional
+    T2-Weighted Sequence in Biparametric MRI of the Prostate".
+  authors:
+  - Zhe Wu
+  - Rajesh Bhayana
+  - "K\xE2mil Uluda\u011F"
+  publisher: 'Journal of magnetic resonance imaging : JMRI'
+  date: '2023-01-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36651306
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36308389
+  title: Investigations of hypoxia-induced deoxyhemoglobin as a contrast agent for
+    cerebral perfusion imaging.
+  authors:
+  - Ece Su Sayin
+  - Jacob Schulman
+  - Julien Poublanc
+  - Harrison T Levine
+  - Lakshmikumar Venkat Raghavan
+  - Kamil Uludag
+  - James Duffin
+  - Joseph A Fisher
+  - David J Mikulis
+  - Olivia Sobczyk
+  publisher: Human brain mapping
+  date: '2022-10-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36308389
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36243267
+  title: Improved laminar specificity and sensitivity by combining SE and GE BOLD
+    signals.
+  authors:
+  - SoHyun Han
+  - Seulgi Eun
+  - HyungJoon Cho
+  - "Kamil Uluda\u01E7"
+  - Seong-Gi Kim
+  publisher: NeuroImage
+  date: '2022-10-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36243267
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34687064
+  title: 'Perfusion MRI using endogenous deoxyhemoglobin as a contrast agent: Preliminary
+    data.'
+  authors:
+  - Julien Poublanc
+  - Olivia Sobczyk
+  - Reema Shafi
+  - Ece Su Sayin
+  - Jacob Schulman
+  - James Duffin
+  - Kamil Uludag
+  - John C Wood
+  - Chau Vu
+  - Rohan Dharmakumar
+  - Joseph A Fisher
+  - David J Mikulis
+  publisher: Magnetic resonance in medicine
+  date: '2021-10-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34687064
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34324976
+  title: Improvement of sensitivity and specificity for laminar BOLD fMRI with double
+    spin-echo EPI in humans at 7 T.
+  authors:
+  - SoHyun Han
+  - Seulgi Eun
+  - HyungJoon Cho
+  - "K\xE2mil Uluda\u01E7"
+  - Seong-Gi Kim
+  publisher: NeuroImage
+  date: '2021-07-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34324976
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33930519
+  title: Determining laminar neuronal activity from BOLD fMRI using a generative model.
+  authors:
+  - Kamil Uludag
+  - Martin Havlicek
+  publisher: Progress in neurobiology
+  date: '2021-04-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33930519
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33901230
+  title: Sub-millimetre resolution laminar fMRI using Arterial Spin Labelling in humans
+    at 7 T.
+  authors:
+  - Sriranga Kashyap
+  - Dimo Ivanov
+  - Martin Havlicek
+  - Laurentius Huber
+  - Benedikt A Poser
+  - "K\xE2mil Uluda\u011F"
+  publisher: PloS one
+  date: '2021-04-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33901230
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33104248
+  title: Quantitative and simultaneous measurement of oxygen consumption rates in
+    rat brain and skeletal muscle using
+  authors:
+  - Hannes M Wiesner
+  - "D\xE1vid Z Balla"
+  - Klaus Scheffler
+  - "K\xE2mil U\u011Furbil"
+  - Xiao-Hong Zhu
+  - Wei Chen
+  - "K\xE2mil Uluda\u011F"
+  - Rolf Pohmann
+  publisher: Magnetic resonance in medicine
+  date: '2020-10-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33104248
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33090274
+  title: Unraveling the contributions to the neuromelanin-MRI contrast.
+  authors:
+  - Nikos Priovoulos
+  - Stan C J van Boxel
+  - Heidi I L Jacobs
+  - Benedikt A Poser
+  - Kamil Uludag
+  - Frans R J Verhey
+  - Dimo Ivanov
+  publisher: Brain structure & function
+  date: '2020-10-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33090274
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32949709
+  title: Effects of MP2RAGE B
+  authors:
+  - Roy A M Haast
+  - Jonathan C Lau
+  - Dimo Ivanov
+  - Ravi S Menon
+  - "K\xE2mil Uluda\u011F"
+  - Ali R Khan
+  publisher: NeuroImage
+  date: '2020-09-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32949709
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32677751
+  title: Direct visualization and characterization of the human zona incerta and surrounding
+    structures.
+  authors:
+  - Jonathan C Lau
+  - Yiming Xiao
+  - Roy A M Haast
+  - Greydon Gilmore
+  - "K\xE2mil Uluda\u011F"
+  - Keith W MacDougall
+  - Ravi S Menon
+  - Andrew G Parrent
+  - Terry M Peters
+  - Ali R Khan
+  publisher: Human brain mapping
+  date: '2020-07-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32677751
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32579109
+  title: Dynamic behavior of the locus coeruleus during arousal-related memory processing
+    in a multi-modal 7T fMRI paradigm.
+  authors:
+  - Heidi Il Jacobs
+  - Nikos Priovoulos
+  - Benedikt A Poser
+  - Linda Hg Pagen
+  - Dimo Ivanov
+  - Frans Rj Verhey
+  - "K\xE2mil Uluda\u011F"
+  publisher: eLife
+  date: '2020-06-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32579109
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32512115
+  title: Layer-dependent functional connectivity methods.
+  authors:
+  - Laurentius Huber
+  - Emily S Finn
+  - Yuhui Chai
+  - Rainer Goebel
+  - "R\xFCdiger Stirnberg"
+  - "Tony St\xF6cker"
+  - Sean Marrett
+  - Kamil Uludag
+  - Seong-Gi Kim
+  - SoHyun Han
+  - Peter A Bandettini
+  - Benedikt A Poser
+  publisher: Progress in neurobiology
+  date: '2020-06-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32512115
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32496189
+  title: Feedback contribution to surface motion perception in the human early visual
+    cortex.
+  authors:
+  - Ingo Marquardt
+  - Peter De Weerd
+  - Marian Schneider
+  - Omer Faruk Gulban
+  - Dimo Ivanov
+  - Yawen Wang
+  - "K\xE2mil Uluda\u011F"
+  publisher: eLife
+  date: '2020-06-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32496189
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31866855
+  title: 'Aerobic Exercise Training Improves Cerebral Blood Flow and Executive Function:
+    A Randomized, Controlled Cross-Over Trial in Sedentary Older Men.'
+  authors:
+  - Jordi P D Kleinloog
+  - Ronald P Mensink
+  - Dimo Ivanov
+  - Jos J Adam
+  - "Kamil Uluda\u011F"
+  - Peter J Joris
+  publisher: Frontiers in aging neuroscience
+  date: '2019-12-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31866855
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31546051
+  title: A dynamical model of the laminar BOLD response.
+  authors:
+  - Martin Havlicek
+  - "K\xE2mil Uluda\u011F"
+  publisher: NeuroImage
+  date: '2019-09-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31546051
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31388558
+  title: European Ultrahigh-Field Imaging Network for Neurodegenerative Diseases (EUFIND).
+  authors:
+  - "Emrah D\xFCzel"
+  - Julio Acosta-Cabronero
+  - David Berron
+  - Geert Jan Biessels
+  - "Isabella Bj\xF6rkman-Burtscher"
+  - Michel Bottlaender
+  - Richard Bowtell
+  - Mark V Buchem
+  - Arturo Cardenas-Blanco
+  - Fawzi Boumezbeur
+  - Dennis Chan
+  - Stuart Clare
+  - Mauro Costagli
+  - Ludovic de Rochefort
+  - Ariane Fillmer
+  - Penny Gowland
+  - Oskar Hansson
+  - Jeroen Hendrikse
+  - Oliver Kraff
+  - Mark E Ladd
+  - Itamar Ronen
+  - Esben Petersen
+  - James B Rowe
+  - Hartwig Siebner
+  - Tony Stoecker
+  - Sina Straub
+  - Michela Tosetti
+  - Kamil Uludag
+  - Alexandre Vignaud
+  - Jaco Zwanenburg
+  - Oliver Speck
+  publisher: Alzheimer's & dementia (Amsterdam, Netherlands)
+  date: '2019-07-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31388558
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31327002
+  title: Locus coeruleus imaging as a biomarker for noradrenergic dysfunction in neurodegenerative
+    diseases.
+  authors:
+  - Matthew J Betts
+  - Evgeniya Kirilina
+  - Maria C G Otaduy
+  - Dimo Ivanov
+  - Julio Acosta-Cabronero
+  - Martina F Callaghan
+  - Christian Lambert
+  - Arturo Cardenas-Blanco
+  - Kerrin Pine
+  - Luca Passamonti
+  - Clare Loane
+  - Max C Keuken
+  - Paula Trujillo
+  - "Falk L\xFCsebrink"
+  - Hendrik Mattern
+  - Kathy Y Liu
+  - Nikos Priovoulos
+  - Klaus Fliessbach
+  - Martin J Dahl
+  - "Anne Maa\xDF"
+  - Christopher F Madelung
+  - David Meder
+  - Alexander J Ehrenberg
+  - Oliver Speck
+  - Nikolaus Weiskopf
+  - Raymond Dolan
+  - Ben Inglis
+  - Duygu Tosun
+  - Markus Morawski
+  - Fabio A Zucca
+  - Hartwig R Siebner
+  - Mara Mather
+  - Kamil Uludag
+  - Helmut Heinsen
+  - Benedikt A Poser
+  - Robert Howard
+  - Luigi Zecca
+  - James B Rowe
+  - Lea T Grinberg
+  - Heidi I L Jacobs
+  - "Emrah D\xFCzel"
+  - "Dorothea H\xE4mmerer"
+  publisher: 'Brain : a journal of neurology'
+  date: '2019-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31327002
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28966978
+  title: 'Subthalamic Nucleus Deep Brain Stimulation: Basic Concepts and Novel Perspectives.'
+  authors:
+  - Clement Hamani
+  - Gerson Florence
+  - Helmut Heinsen
+  - Birgit R Plantinga
+  - Yasin Temel
+  - Kamil Uludag
+  - Eduardo Alho
+  - Manoel J Teixeira
+  - Edson Amaro
+  - Erich T Fonoff
+  publisher: eNeuro
+  date: '2017-09-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28966978
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: doi:10.64898/2025.12.06.692728
   title: Multiscale characterisation of the human claustrum from histology to MRI
   authors:
@@ -1628,17 +2364,18 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/mrm.20067
-  title: Letter to the editor
+  title: Measuring the effects of indomethacin on changes in cerebral oxidative metabolism
+    and cerebral blood flow during sensorimotor activation.
   authors:
   - "K\xE2mil Uluda\u01E7"
   - Richard B. Buxton
   publisher: Magnetic Resonance in Medicine
-  date: '2004-04-26'
+  date: '2005-05-01'
   link: https://doi.org/cg84qz
   orcid: 0000-0002-2813-5930
   kamil-uludag: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - title: Measuring the effects of indomethacin on changes in cerebral oxidative metabolism
     and cerebral blood flow during sensorimotor activation.
   publisher: 'Magnetic resonance in medicine : official journal of the Society of
@@ -1826,6 +2563,22 @@
   kamil-uludag: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1117/12.500479
+  title: Functional brain imaging by CW-NIRS coregistered by blood flow monitors
+  authors:
+  - Jens M. Steinbrink
+  - Florian Kempf
+  - Stephan Schreiber
+  - Kamil Uludag
+  - Matthias Kohl
+  - Jose M. Valdueza
+  - Arno Villringer
+  - Hellmuth Obrig
+  publisher: SPIE Proceedings
+  date: '2003-10-15'
+  link: https://doi.org/cfv7cb
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
@@ -1853,32 +2606,5 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml

@@ -1,13 +1,13 @@
 ---
-name: Cristabel Faylinn
-image: images/cristabel.jpg
+name: Christabel Faylinn
+image: images/christabel.jpg
 role: phd
 affiliation: University of Toronto
 description: Graduate Student
 group: 
 links:
 aliases:
-- Cristabel Faylinn
+- Christabel Faylinn
 - C. Faylinn
 - C Faylinn
 ---

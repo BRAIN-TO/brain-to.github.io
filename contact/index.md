@@ -77,6 +77,12 @@ Our lab is proudly supported by the [University Health Network (UHN)](http://www
   height="200px"
 %}
 
+{%
+  include figure.html
+  image="images/nserc.png"
+  height="200px"
+%}
+
 {% endcapture %}
 
 {% include grid.html content=content %}
@@ -91,7 +97,7 @@ As an interdisciplinary lab, we have offices at various sites. You will find us 
 Sunnybrook Research Institute
 
 2075 Bayview Avenue,
-AG 00 (A-wing, ground floor),
+EG 01 (E-wing, ground floor),
 Toronto, ON, Canada, M4N 3M5
 
 {% endcapture %}
@@ -109,7 +115,7 @@ Toronto, ON, Canada, M5G 1L7
 Toronto Western Hospital
 
 399 Bathurst Street,
-12MC405 (12th floor, MacLaughlin Elevators),
+12MC405 (12th floor, McLaughlin Elevators),
 Toronto, ON, Canada, M5T 2S8
 
 {% endcapture %}

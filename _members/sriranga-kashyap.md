@@ -3,7 +3,7 @@ name: Sriranga Kashyap
 image: images/sriranga.jpg
 role: postdoc
 affiliation: University Health Network
-description: Post-Doctoral Fellow
+description: Scientific Associate
 group: 
 links:
   github: srikash
@@ -22,4 +22,4 @@ My background is in engineering biotechnology and pre-clinical neurosciences. I 
 
 I joined the BRAIN-TO Lab as a Post-doctoral researcher in 2021. My office can be found at the Slaight Family Centre for Advanced MRI, Toronto Western Hospital where I work on advanced imaging methods & clinical applications.
 
-Outside of research, I enjoy natural history, epic fantasy and graphic novels, I actively follow soccer football, I’m an avid gamer (PC, PS5 & tabletop), I tinker with my Raspberry Pi and other gadgets, and love to travel when I can afford to.
+Outside of research, I enjoy natural history, epic fantasy and graphic novels, I actively follow ~~soccer~~ football, I’m an avid gamer (PC, PS5 & tabletop), I tinker with my Raspberry Pi and other gadgets, and love to travel when I can afford to.

@@ -2,8 +2,8 @@
 name: Zhe (Tim) Wu
 image: images/zhe.jpg
 role: postdoc
-affiliation: University Health Network
-description: Post-Doctoral Fellow
+affiliation: Siemens Healthineers
+description: Collaboration Scientist
 group: 
 links:
 aliases:

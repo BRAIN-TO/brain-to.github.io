@@ -2,6 +2,15 @@
 - id: doi:10.1117/12.434501
   title: Noninvasive cerebral blood flow monitoring by a dye bolus method:separation of extra- and intracerebral absorption changes by frequency-domain spectroscopy
 
+- id: doi:10.1117/12.500479
+  title: Functional brain imaging by CW-NIRS coregistered by blood flow monitors
+  date: 2003-10-15
+
+- id: doi:10.1002/mrm.20067
+  title: Measuring the effects of indomethacin on changes in cerebral oxidative metabolism
+    and cerebral blood flow during sensorimotor activation.
+  date: 2005-05-01
+
 # manually provide all citation details (can be a new citation)
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
@@ -19,9 +28,3 @@
     - open science
     - collaboration
   repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
