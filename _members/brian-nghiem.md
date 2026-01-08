@@ -1,7 +1,7 @@
 ---
 name: Brian Nghiem
 image: images/brian.jpg
-role: msc
+role: phd
 affiliation: Techna Institute
 description: Graduate Student
 group: 
