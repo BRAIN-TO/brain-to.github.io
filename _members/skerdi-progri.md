@@ -1,5 +1,5 @@
 ---
-name: Skerdi Projri
+name: Skerdi Progri
 image: images/skerdi.jpg
 role: staff
 affiliation: University Health Network
