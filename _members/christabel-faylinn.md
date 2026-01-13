@@ -1,6 +1,6 @@
 ---
 name: Christabel Faylinn
-image: images/christabel.jpg
+image: images/christabel.JPG
 role: phd
 affiliation: University of Toronto
 description: Graduate Student
