@@ -1,7 +1,7 @@
 ---
 name: Labeeb Talukder
 image: images/labeeb.jpg
-role: msc
+role: grad
 description: Graduate Student
 group: alum
 aliases:

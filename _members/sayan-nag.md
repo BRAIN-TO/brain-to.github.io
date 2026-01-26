@@ -1,7 +1,7 @@
 ---
 name: Sayan Nag
 image: images/sayan.jpg
-role: msc
+role: grad
 description: Graduate Student
 group: alum
 aliases:

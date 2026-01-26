@@ -1,7 +1,7 @@
 ---
 name: Angelica Manalac
 image: images/angelica.jpg
-role: msc
+role: grad
 description: Graduate Student
 group: alum
 aliases:

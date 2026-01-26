@@ -1,7 +1,7 @@
 ---
 name: Shawn Carere
 image: images/shawn.jpg
-role: msc
+role: grad
 description: Graduate Student
 group: alum
 aliases:

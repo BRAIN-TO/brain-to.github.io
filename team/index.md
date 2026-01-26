@@ -14,7 +14,7 @@ Our interdisciplinary team of researchers, engineers, and clinicians is dedicate
 {% include list.html data="members" component="portrait" filter="role == 'principal investigator'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alum'" %}
-{% include list.html data="members" component="portrait" filter="role == 'msc' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'grad' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'staff' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and group != 'alum'" %}
 
