@@ -1,9 +1,9 @@
 ---
 name: Ali Haider
 image: images/ali.jpg
-role: phd
+role: MD Student
 affiliation: University of Toronto
-description: Graduate Student
+description: Graduate Diploma Canadidate
 group: 
 links:
 aliases:
