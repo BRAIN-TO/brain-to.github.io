@@ -1,6 +1,6 @@
 ---
 name: Lisa Wang
-image: images/lisa-w.jpg
+image: images/lisa.JPG
 role: phd
 affiliation: University of Toronto
 description: Graduate Student

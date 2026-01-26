@@ -1,6 +1,6 @@
 ---
 name: Lisa Rudolph
-image: images/lisa.jpg
+image: images/lisa-r.jpg
 role: staff
 description: Research Technician
 group: alum
