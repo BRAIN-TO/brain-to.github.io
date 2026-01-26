@@ -9,3 +9,4 @@ links:
 aliases:
 ---
 
+Vanessa Yu received her BSc in Computer Science and her MSc in Applied Computing from the University of Toronto.
