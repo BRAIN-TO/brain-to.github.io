@@ -14,9 +14,9 @@ phd:
   icon: fa-solid fa-brain
   description: PhD Student
 
-msc:
+grad:
   icon: fa-solid fa-graduation-cap
-  description: MSc Student
+  description: Grad Student
 
 undergrad:
   icon: fa-solid fa-user-graduate

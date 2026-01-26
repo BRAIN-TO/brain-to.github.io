@@ -2,7 +2,7 @@
 title: Resources
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Software, datasets, and more
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Resources
