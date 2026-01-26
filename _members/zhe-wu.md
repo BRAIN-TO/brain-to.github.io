@@ -5,7 +5,7 @@ role: postdoc
 affiliation: Siemens Healthineers
 description: MRI Collaboration Scientist
 group: alum
-links: [Google Scholar](https://scholar.google.com/citations?user=NR-5WkIAAAAJ&hl=en)
+links: https://scholar.google.com/citations?user=NR-5WkIAAAAJ&hl=en
 aliases:
   - Zhe Wu
   - Tim Wu
