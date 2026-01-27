@@ -36,38 +36,11 @@ Our lab is proudly supported by the [University Health Network (UHN)](http://www
 {% include section.html %}
 
 # Sponsors & Partners
-
 {% capture content %}
 
 {%
   include figure.html
   image="images/uhn.svg"
-  height="200px"
-%}
-
-
-
-{%
-  include figure.html
-  image="images/crc.jpg"
-  height="200px"
-%}
-
-{%
-  include figure.html
-  image="images/slaight.jpg"
-  height="200px"
-%}
-
-{%
-  include figure.html
-  image="images/shsc.svg"
-  height="200px"
-%}
-
-{%
-  include figure.html
-  image="images/cfi.png"
   height="200px"
 %}
 
@@ -79,7 +52,31 @@ Our lab is proudly supported by the [University Health Network (UHN)](http://www
 
 {%
   include figure.html
+  image="images/slaight.jpg"
+  height="200px"
+%}
+
+{%
+  include figure.html
+  image="images/cfi.png"
+  height="200px"
+%}
+
+{%
+  include figure.html
   image="images/nserc.png"
+  height="200px"
+%}
+
+{%
+  include figure.html
+  image="images/shsc.svg"
+  height="200px"
+%}
+
+{%
+  include figure.html
+  image="images/crc.jpg"
   height="200px"
 %}
 
@@ -94,15 +91,6 @@ Our lab is proudly supported by the [University Health Network (UHN)](http://www
 As an interdisciplinary lab, we have offices at various sites. You will find us here:
 
 {% capture col1 %}
-Sunnybrook Research Institute
-
-2075 Bayview Avenue,
-EG 01 (E-wing, ground floor),
-Toronto, ON, Canada, M4N 3M5
-
-{% endcapture %}
-
-{% capture col2 %}
 Princess Margaret Cancer Research Tower
 
 101 College Street,
@@ -111,12 +99,21 @@ Toronto, ON, Canada, M5G 1L7
 
 {% endcapture %}
 
-{% capture col3 %}
+{% capture col2 %}
 Toronto Western Hospital
 
 399 Bathurst Street,
 12MC405 (12th floor, McLaughlin Elevators),
 Toronto, ON, Canada, M5T 2S8
+
+{% endcapture %}
+
+{% capture col3 %}
+Sunnybrook Research Institute
+
+2075 Bayview Avenue,
+EG 01 (E-wing, ground floor),
+Toronto, ON, Canada, M4N 3M5
 
 {% endcapture %}
 

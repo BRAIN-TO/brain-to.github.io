@@ -14,6 +14,7 @@ aliases:
   - Kâmil Uludag
 links:
   orcid: 0000-0002-2813-5930
+  google-scholar: PRqPyq8AAAAJ&hl=en
 ---
 
 Kâmil Uludağ studied from 1992 till 1997 Physics at the Technical University of Berlin. He completed his Ph.D. in Physics in 2003 on Near-Infrared Optical Spectroscopy (Charité, Humboldt University, Berlin) and moved for a postdoc position to the Center for Functional MRI (UCSD, San Diego, USA) to work on the physiological and physical basis of functional MRI. In 2004, he was appointed Head of Human Brain Imaging group at the Max-Planck-Institute for Biological Cybernetics, Tübingen, Germany. From June 2010 to December 2018, he was Associate Professor in the Faculty of Psychology & Neuroscience and Head of the Department of Cognitive Neuroscience continuing his work on the fundamentals of fMRI utilizing the new Ultra-High Field human MRI scanners (7 and 9.4 Tesla). Since May 2019, he is Full Professor at the Department of Medical Biophysics, University of Toronto. In 2024, he was appointed the Scientific Director of human 7T MRI scanner. Dr. Uludağ has been recently appointed Senior Fellow of the International Society for Magnetic Resonance Imaging in Medicine (ISMRM) and Canada Research Chair, Tier 1.

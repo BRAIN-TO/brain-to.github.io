@@ -7,16 +7,24 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research
 
-The BRAIN-TO Lab strives for advancing our understanding of the human brain by research in three core areas:
+The BRAIN-TO Lab strives for advancing our understanding of the human brain by research in three [core areas](/research#core-areas):
 - MR Physics
 - Artificial Intelligence (AI) & Cognitive Neuroscience
 - Clinical Applications
 
-{% include tags.html tags="mr-physics, ai, clinical" %}
+{% comment %}
+We are actively recruiting volunteers to participate in our research studies. If you are interested in contributing to cutting-edge neuroscience research and helping us unlock the mysteries of the brain, please use the "active" tag below to find ongoing studies that are currently seeking participants.
+{% endcomment %}
+
+{% include tags.html tags="mr-physics, ai, clinical, active" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
+
+## Projects
+
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
 
 ## Core Areas
 
@@ -42,7 +50,3 @@ The BRAIN-TO Lab strives for advancing our understanding of the human brain by r
 %}
 
 {% include section.html %}
-
-## Projects
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
