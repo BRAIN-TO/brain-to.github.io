@@ -2,7 +2,7 @@
 name: Brian Nghiem
 image: images/brian.jpg
 role: phd
-affiliation: Techna Institute
+affiliation: Krembil Brain Institute
 description: Graduate Student
 group: 
 links:
