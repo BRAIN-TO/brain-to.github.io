@@ -16,18 +16,6 @@
     of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:40800793
-  title: Problems and solutions in quantifying cerebrovascular reactivity using BOLD-MRI.
-  authors:
-  - Jacob B Schulman
-  - "Kamil Uluda\u011F"
-  publisher: Imaging neuroscience (Cambridge, Mass.)
-  date: '2025-05-02'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/40800793
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:40800338
   title: Transformer-aided dynamic causal model for scalable estimation of effective
     connectivity.
@@ -750,10 +738,11 @@
   publisher: openRxiv
   date: '2025-12-09'
   link: https://doi.org/hbd8mr
-  orcid: 0000-0002-2813-5930
+  orcid: 0000-0003-0307-9773
   kamil-uludag: true
   plugin: orcid.py
   file: orcid.yaml
+  sriranga-kashyap: true
 - id: doi:10.1162/imag_a_00556
   title: Problems and solutions in quantifying cerebrovascular reactivity using BOLD-MRI
   authors:
@@ -815,10 +804,11 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-08-26'
   link: https://doi.org/hbdbm6
-  orcid: 0000-0002-2813-5930
+  orcid: 0000-0003-0307-9773
   kamil-uludag: true
   plugin: orcid.py
   file: orcid.yaml
+  sriranga-kashyap: true
 - id: doi:10.1101/2023.08.02.551576
   title: Feasibility of high-resolution perfusion imaging using Arterial Spin Labelling
     MRI at 3 Tesla
@@ -829,10 +819,11 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-08-05'
   link: https://doi.org/hbdbm7
-  orcid: 0000-0002-2813-5930
+  orcid: 0000-0003-0307-9773
   kamil-uludag: true
   plugin: orcid.py
   file: orcid.yaml
+  sriranga-kashyap: true
 - id: doi:10.1016/j.neuroimage.2023.120249
   title: 'Physiological modeling of the BOLD signal and implications for effective
     connectivity: A primer'
@@ -1030,10 +1021,11 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-08-24'
   link: https://doi.org/gsx9c7
-  orcid: 0000-0002-2813-5930
+  orcid: 0000-0003-0307-9773
   kamil-uludag: true
   plugin: orcid.py
   file: orcid.yaml
+  sriranga-kashyap: true
 - id: doi:10.7554/eLife.50933
   title: Feedback contribution to surface motion perception in the human early visual
     cortex
@@ -1227,10 +1219,11 @@
   publisher: Scientific Reports
   date: '2018-11-20'
   link: https://doi.org/gf3fk9
-  orcid: 0000-0002-2813-5930
+  orcid: 0000-0003-0307-9773
   kamil-uludag: true
   plugin: orcid.py
   file: orcid.yaml
+  sriranga-kashyap: true
 - id: doi:10.1016/j.nicl.2018.01.017
   title: 'Anatomic &amp; metabolic brain markers of the m.3243A&gt;G mutation: A multi-parametric
     7T MRI study'
@@ -1332,10 +1325,11 @@
   publisher: NeuroImage
   date: '2018-03-01'
   link: https://doi.org/gc8gwm
-  orcid: 0000-0002-2813-5930
+  orcid: 0000-0003-0307-9773
   kamil-uludag: true
   plugin: orcid.py
   file: orcid.yaml
+  sriranga-kashyap: true
 - id: doi:10.1016/j.neuroimage.2016.09.023
   title: Individualized parcellation of the subthalamic nucleus in patients with Parkinson's
     disease with 7T MRI
@@ -1451,10 +1445,11 @@
   publisher: NeuroImage
   date: '2018-09-01'
   link: https://doi.org/gdxh65
-  orcid: 0000-0002-2813-5930
+  orcid: 0000-0003-0307-9773
   kamil-uludag: true
   plugin: orcid.py
   file: orcid.yaml
+  sriranga-kashyap: true
 - id: doi:10.1016/j.neuroimage.2017.05.038
   title: Comparison of 3 T and 7 T ASL techniques for concurrent functional perfusion
     and BOLD studies
@@ -2363,19 +2358,6 @@
   kamil-uludag: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/mrm.20067
-  title: Measuring the effects of indomethacin on changes in cerebral oxidative metabolism
-    and cerebral blood flow during sensorimotor activation.
-  authors:
-  - "K\xE2mil Uluda\u01E7"
-  - Richard B. Buxton
-  publisher: Magnetic Resonance in Medicine
-  date: '2005-05-01'
-  link: https://doi.org/cg84qz
-  orcid: 0000-0002-2813-5930
-  kamil-uludag: true
-  plugin: sources.py
-  file: sources.yaml
 - title: Measuring the effects of indomethacin on changes in cerebral oxidative metabolism
     and cerebral blood flow during sensorimotor activation.
   publisher: 'Magnetic resonance in medicine : official journal of the Society of
@@ -2563,6 +2545,492 @@
   kamil-uludag: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1002/mrm.70052
+  title: "A network\u2010assisted joint image and motion estimation approach for robust\n\
+    \                    <scp>3D MRI</scp>\n                    motion correction\
+    \ across severity levels"
+  authors:
+  - Brian Nghiem
+  - Zhe Wu
+  - Sriranga Kashyap
+  - Lars Kasper
+  - "K\xE2mil Uluda\u011F"
+  publisher: Magnetic Resonance in Medicine
+  date: '2025-08-29'
+  link: https://doi.org/hbnd3b
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.09.22.675000
+  title: Evaluating the quality of brainstem ROI registration using structural and
+    diffusion MRI
+  authors:
+  - Yi-An A. Chen
+  - Lars Kasper
+  - Clement T. Chow
+  - Alexandre Boutet
+  - "J\xFCrgen Germann"
+  - Andres M. Lozano
+  - "K\xE2mil Uluda\u011F"
+  - Andreea O. Diaconescu
+  - Sriranga Kashyap
+  publisher: openRxiv
+  date: '2025-09-22'
+  link: https://doi.org/hbnd3c
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/mdc3.70130
+  title: 'Cerebellar Dentate Cavernoma Enlargement and Tremor Emergence: Longitudinal
+    Neuroimaging Analysis of Case Report and Literature Review'
+  authors:
+  - Andrew Z. Yang
+  - Tiffany Rodrigues
+  - Sriranga Kashyap
+  - Yash Patel
+  - Arjun Balachandar
+  - Benjamin A. Davidson
+  - Can Sarica
+  - Rafael E. Buongermini
+  - Artur Vetkas
+  - Abu Bakar Butt
+  - Jurgen Germann
+  - Alfonso Fasano
+  - Suneil K. Kalia
+  - Andres M. Lozano
+  - Marie Slegr
+  - Alexandre Boutet
+  publisher: Movement Disorders Clinical Practice
+  date: '2025-05-19'
+  link: https://doi.org/hbnd3f
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.08.25.672075
+  title: 'Blood volume sensitive laminar fMRI with VASO in human hippocampus: Capabilities
+    and biophysical challenges at clinical 7T scanners'
+  authors:
+  - Khazar Ahmadi
+  - Stephanie Swegle
+  - Sriranga Kashyap
+  - Antoine Bouyeure
+  - Peter Bandettini
+  - Nikolai Axmacher
+  - Laurentius (Renzo) Huber
+  publisher: openRxiv
+  date: '2025-08-29'
+  link: https://doi.org/hbnd3g
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1162/imag_a_00532
+  title: Characterizing BOLD activation patterns in the human hippocampus with laminar
+    fMRI
+  authors:
+  - Viktor Pfaffenrot
+  - Antoine Bouyeure
+  - Carlos Alexandre Gomes
+  - Sriranga Kashyap
+  - Nikolai Axmacher
+  - David G. Norris
+  publisher: Imaging Neuroscience
+  date: '2025-01-01'
+  link: https://doi.org/hbnd3h
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/cercor/bhae343
+  title: 'Intracortical myelin across laminae in adult individuals with 47,XXX: a
+    7 Tesla MRI study'
+  authors:
+  - Chaira Serrarens
+  - Julia Ruiz-Fernandez
+  - Maarten Otter
+  - Bea C M Campforts
+  - Constance T R M Stumpel
+  - David E J Linden
+  - Therese A M J van Amelsvoort
+  - Sriranga Kashyap
+  - Claudia Vingerhoets
+  publisher: Cerebral Cortex
+  date: '2024-08-01'
+  link: https://doi.org/hbnd3j
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.07.04.602065
+  title: Characterizing BOLD activation patterns in the human hippocampus with laminar
+    fMRI
+  authors:
+  - Viktor Pfaffenrot
+  - Antoine Bouyeure
+  - Carlos Alexandre Gomes
+  - Sriranga Kashyap
+  - Nikolai Axmacher
+  - David G Norris
+  publisher: openRxiv
+  date: '2024-07-08'
+  link: https://doi.org/hbnd3k
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.06.26.600746
+  title: Laminar CBV and BOLD response-characteristics over time and space in the
+    human primary somatosensory cortex at 7T
+  authors:
+  - Sebastian Dresbach
+  - Omer Faruk Gulban
+  - Till Steinbach
+  - Judith Eck
+  - Sriranga Kashyap
+  - Amanda Kaas
+  - Nikolaus Weiskopf
+  - Rainer Goebel
+  - Renzo Huber
+  publisher: openRxiv
+  date: '2024-06-30'
+  link: https://doi.org/hbnd3m
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-024-58086-8
+  title: Non-invasive perfusion MR imaging of the human brain via breath-holding
+  authors:
+  - J. B. Schulman
+  - S. Kashyap
+  - S. G. Kim
+  - "K. Uluda\u011F"
+  publisher: Scientific Reports
+  date: '2024-03-27'
+  link: https://doi.org/hbnd3n
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2310044121
+  title: Insights into hippocampal perfusion using high-resolution, multi-modal 7T
+    MRI
+  authors:
+  - Roy A. M. Haast
+  - Sriranga Kashyap
+  - Dimo Ivanov
+  - Mohamed D. Yousif
+  - Jordan DeKraker
+  - Benedikt A. Poser
+  - Ali R. Khan
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-03-06'
+  link: https://doi.org/hbnd3p
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fphys.2023.1271254
+  title: Feasibility of high-resolution perfusion imaging using arterial spin labeling
+    MRI at 3 Tesla
+  authors:
+  - Sriranga Kashyap
+  - "\xCDcaro Agenor Ferreira Oliveira"
+  - "K\xE2mil Uluda\u011F"
+  publisher: Frontiers in Physiology
+  date: '2024-01-03'
+  link: https://doi.org/hbnd3q
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.07.19.549533
+  title: Novel insights into hippocampal perfusion using high-resolution, multi-modal
+    7T MRI
+  authors:
+  - Roy A. M. Haast
+  - Sriranga Kashyap
+  - Dimo Ivanov
+  - Mohamed D. Yousif
+  - Jordan DeKraker
+  - Benedikt A. Poser
+  - Ali R. Khan
+  publisher: openRxiv
+  date: '2023-07-21'
+  link: https://doi.org/hbnd3r
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10334-023-01080-4
+  title: "Magnetic resonance imaging at 9.4\_T: the Maastricht journey"
+  authors:
+  - Dimo Ivanov
+  - Federico De Martino
+  - Elia Formisano
+  - Francisco J. Fritz
+  - Rainer Goebel
+  - Laurentius Huber
+  - Sriranga Kashyap
+  - Valentin G. Kemper
+  - Denizhan Kurban
+  - Alard Roebroeck
+  - Shubharthi Sengupta
+  - Bettina Sorger
+  - Desmond H. Y. Tse
+  - "K\xE2mil Uluda\u011F"
+  - Christopher J. Wiggins
+  - Benedikt A. Poser
+  publisher: Magnetic Resonance Materials in Physics, Biology and Medicine
+  date: '2023-04-20'
+  link: https://doi.org/hbnd3s
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/cercor/bhac410
+  title: 'Resting-state functional connectivity in adults with 47,XXX: a 7 Tesla MRI
+    study'
+  authors:
+  - Chaira Serrarens
+  - Sriranga Kashyap
+  - Laura Riveiro-Lago
+  - Maarten Otter
+  - Bea C M Campforts
+  - Constance T R M Stumpel
+  - Henk Jansma
+  - David E J Linden
+  - "Th\xE9r\xE8se A M J van Amelsvoort"
+  - Claudia Vingerhoets
+  publisher: Cerebral Cortex
+  date: '2022-10-18'
+  link: https://doi.org/hbnd3t
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2022.119421
+  title: 'Inconsistencies in atlas-based volumetric measures of the human nucleus
+    basalis of Meynert: A need for high-resolution alternatives'
+  authors:
+  - Yawen Wang
+  - Minye Zhan
+  - Alard Roebroeck
+  - Peter De Weerd
+  - Sriranga Kashyap
+  - Mark J. Roberts
+  publisher: NeuroImage
+  date: '2022-10-01'
+  link: https://doi.org/hbnd3v
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2021.118820
+  title: Concurrent CBF and BOLD fMRI with dual-echo spiral simultaneous multi-slice
+    acquisitions at 7T
+  authors:
+  - Denizhan Kurban
+  - Dimo Ivanov
+  - Sriranga Kashyap
+  - Laurentius Huber
+  - Gilad Liberman
+  - Benedikt A. Poser
+  publisher: NeuroImage
+  date: '2022-02-01'
+  link: https://doi.org/hbnd3w
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-16348-7_4
+  title: Preoperative Planning of DBS Surgery with MRI
+  authors:
+  - Aaron Loh
+  - Clement T. Chow
+  - Aida Ahrari
+  - "K\xE2mil Uluda\u011F"
+  - Sriranga Kashyap
+  - Harith Akram
+  - Ludvic Zrinzo
+  publisher: Magnetic Resonance Imaging in Deep Brain Stimulation
+  date: '2022-01-01'
+  link: https://doi.org/hbnd3x
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-16348-7_5
+  title: Safety of Magnetic Resonance Imaging in Patients with Deep Brain Stimulation
+  authors:
+  - Clement T. Chow
+  - Sriranga Kashyap
+  - Aaron Loh
+  - Asma Naheed
+  - Nicole Bennett
+  - Laleh Golestanirad
+  - Alexandre Boutet
+  publisher: Magnetic Resonance Imaging in Deep Brain Stimulation
+  date: '2022-01-01'
+  link: https://doi.org/hbnd3z
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2021.118163
+  title: Laminar fMRI using T2-prepared multi-echo FLASH
+  authors:
+  - Viktor Pfaffenrot
+  - Maximilian N. Voelker
+  - Sriranga Kashyap
+  - Peter J. Koopmans
+  publisher: NeuroImage
+  date: '2021-08-01'
+  link: https://doi.org/hbnd32
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0250504
+  title: Sub-millimetre resolution laminar fMRI using Arterial Spin Labelling in humans
+    at 7 T
+  authors:
+  - Sriranga Kashyap
+  - Dimo Ivanov
+  - Martin Havlicek
+  - Laurentius Huber
+  - Benedikt A. Poser
+  - "K\xE2mil Uluda\u011F"
+  publisher: PLOS ONE
+  date: '2021-04-26'
+  link: https://doi.org/hbnd33
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2019.116463
+  title: Sub-millimeter fMRI reveals multiple topographical digit representations
+    that form action maps in human motor cortex
+  authors:
+  - Laurentius Huber
+  - Emily S. Finn
+  - Daniel A. Handwerker
+  - "Marlene B\xF6nstrup"
+  - Daniel R. Glen
+  - Sriranga Kashyap
+  - Dimo Ivanov
+  - Natalia Petridou
+  - Sean Marrett
+  - Jozien Goense
+  - Benedikt A. Poser
+  - Peter A. Bandettini
+  publisher: NeuroImage
+  date: '2020-03-01'
+  link: https://doi.org/gst68b
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7490/F1000RESEARCH.1117450.1
+  title: Ultra-high spatial resolution multi-echo BOLD &amp; VASO fMRI of the human
+    motor cortex at 9.4 T
+  authors:
+  - Sriranga Kashyap
+  - Laurentius Huber
+  - Dimo Ivanov
+  - "K\xE2mil Uluda\u011F"
+  - David A. Feinberg
+  - Benedikt A. Poser
+  publisher: F1000 Research Ltd
+  date: '2019-09-02'
+  link: https://doi.org/hbnd34
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7490/F1000RESEARCH.1117449.1
+  title: Effect of optimised coil-combinations on high-resolution laminar fMRI at
+    9.4T
+  authors:
+  - Sriranga Kashyap
+  - Francisco J. Fritz
+  - Robbert L. Harms
+  - Laurentius Huber
+  - Dimo Ivanov
+  - Alard Roebroeck
+  - Benedikt A. Poser
+  - "K\xE2mil Uluda\u011F"
+  publisher: F1000 Research Ltd
+  date: '2019-09-02'
+  link: https://doi.org/hbnd35
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7490/F1000RESEARCH.1117448.1
+  title: True laminar resolution fMRI of the human visual cortex at 7T
+  authors:
+  - Sriranga Kashyap
+  - Dimo Ivanov
+  - Martin Havlicek
+  - Shubharthi Sengupta
+  - Benedikt A. Poser
+  - "K\xE2mil Uluda\u011F"
+  publisher: F1000 Research Ltd
+  date: '2019-09-02'
+  link: https://doi.org/hbnd36
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7490/F1000RESEARCH.1117452.1
+  title: Sub-millimetre quantitative T1 mapping using inversion-recovery EPI and application
+    for cortical depth-dependent fMRI at 7 Tesla
+  authors:
+  - Sriranga Kashyap
+  - Dimo Ivanov
+  - Martin Havlicek
+  - Benedikt A. Poser
+  - "K\xE2mil Uluda\u011F"
+  publisher: F1000 Research Ltd
+  date: '2019-09-02'
+  link: https://doi.org/hbnd37
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.13140/RG.2.1.2737.3041
+  title: Towards an optimal analysis of laminar-resolved fMRI
+  authors:
+  - Martin Havlicek
+  - Dimo Ivanov
+  - Kamil Uludag
+  publisher: Unpublished
+  date: '2016-01-01'
+  link: https://doi.org/ggmd3g
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7490/F1000RESEARCH.1117451.1
+  title: Fast quantitative T1-mapping at ultra-high field using inversion-recovery
+    echo planar imaging
+  authors:
+  - Dimo Ivanov
+  - Benedikt A. Poser
+  - Sriranga Kashyap
+  - Martin Havlicek
+  - "K\xE2mil Uluda\u011F"
+  publisher: F1000 Research Ltd
+  date: '2019-09-02'
+  link: https://doi.org/hbnd38
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1117/12.500479
   title: Functional brain imaging by CW-NIRS coregistered by blood flow monitors
   authors:
@@ -2577,6 +3045,41 @@
   publisher: SPIE Proceedings
   date: '2003-10-15'
   link: https://doi.org/cfv7cb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13244-025-02153-9
+  title: 'Differentiating CSF flow artifacts from pathology: an educational review'
+  authors:
+  - Vivek Pai
+  - Alexandre Boutet
+  - Mikail Malik
+  - Yash Patel
+  - Sriranga Kashyap
+  - Jurgen Germann
+  - Kanchan Gupta
+  - Bhujang Pai
+  - Birgit Betina Ertl-Wagner
+  - Bela Purohit
+  publisher: Insights into Imaging
+  date: '2025-12-22'
+  link: https://doi.org/hbnd4r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.pscychresns.2024.111915
+  title: 'White matter organization abnormalities in adults with 47,XXX: A 7 Tesla
+    MRI study'
+  authors:
+  - Chaira Serrarens
+  - Sriranga Kashyap
+  - Maarten Otter
+  - Bea C.M. Campforts
+  - Constance T.R.M. Stumpel
+  - David E.J. Linden
+  - "Th\xE9r\xE8se A.M.J. van Amelsvoort"
+  - Claudia Vingerhoets
+  publisher: 'Psychiatry Research: Neuroimaging'
+  date: '2024-12-01'
+  link: https://doi.org/hbnd4s
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pcbi.1007128
