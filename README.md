@@ -28,28 +28,35 @@
   Alternatively, you can clone the repository to your local machine, make changes using a text editor or IDE (e.g, VS Code), and push your changes back to GitHub. This method allows you to preview the website locally before pushing changes live.
   
   1. Clone the repository to your local machine using git:
-    ```git clone https://github.com/BRAIN-TO/brain-to.github.io.git``
+        ```
+        git clone https://github.com/BRAIN-TO/brain-to.github.io.git
+        ```
   2. Navigate to the cloned repository directory:
-    ```cd brain-to.github.io``
-  3. Follow the instructions in the [Preview your site | Lab Website Template Documentation](https://greene-lab.gitbook.io/lab-website-template-docs/getting-started/preview-your-site) to set up your site preview environment. This typically involves installing dependencies such as Ruby and Jekyll.
-  4. To setup a local preview of the website, ensure you have [Docker](https://www.docker.com/) installed. Then, run the following command in the terminal from the root directory of the repository:
-    ```.docker/run.sh```
-  5. Once the docker container is setup and running, preview the website locally by opening a web browser and navigating to:
-    `http://localhost:4000`
-  6. Make the necessary edits to the markdown files or other content using your preferred text editor or IDE using the intructions from Method 1. As you save different files, the local preview should automatically reload to reflect your changes. Sometimes the Docker container may need to be restarted to reflect certain changes.
-  7. Once you are satisfied with the changes, ensure that your files are saved locally before staging and committing your changes using git. 
-  8. Once committed, GitHub actions will trigger to regenerate the HTML files so that the live website will be updated.
+        ```
+        cd brain-to.github.io
+        ```
+  3. To setup a local preview of the website, ensure you have [Docker](https://www.docker.com/) installed and running. Then, run the following command in the terminal from the root directory of the repository:
+        ```
+        .docker/run.sh
+        ```
+  4. Once the docker container is first built and running, the terminal will show you that the preview is running and the website is accessible locally by opening a web browser and navigating to:
+        ```
+        http://localhost:4000
+        ```
+  5. Make the necessary edits to the markdown files or other content using your preferred text editor or IDE using the intructions from Method 1. As you save different files, the local preview should automatically reload to reflect your changes. Sometimes the Docker container may need to be restarted to reflect certain changes.
+  6. Once you are satisfied with the changes, ensure that your files are saved locally before staging and committing your changes using git. 
+  7. Once committed, GitHub actions will trigger to regenerate the HTML files so that the live website will be updated.
 
 ## Editing other content
 In addition to adding member pages, you can also edit other content on the website such as the homepage, projects, publications, resources, and more. Most of this should be already setup so it shouldn't require major edits but the content is organized in markdown and YAML files located in various folders within the repository. You can follow similar steps as outlined in Method 1 or Method 2 to make changes to these files. A general description of the page content and layout can be found in the [Edit pages | Lab Website Template Documentation](https://greene-lab.gitbook.io/lab-website-template-docs/basics/edit-pages).
 
 - Homepage: `index.md`
-- Research: `research/index.md` and add new project descriptions in `_data/projects.yaml`
-- Publications: `_data/orcid.yaml` for entering additional ORCID scrapers (most accurate) and `_data/sources.yaml` for manually adding/fixing/missing publications. *Manubot will try it's best to pull from these sources automatically but it can make mistakes*.
-- Resources: `resources/index.md` and create new posts in `_posts/` using the format `YYYY-MM-DD-resource-title.md`
+- Research: `research/index.md` and add new project descriptions in `_data/projects.yaml`. I suggest not making this too long as it will clutter the page.
+- Publications: `_data/orcid.yaml` for entering additional ORCID scrapers (most accurate) and `_data/sources.yaml` for manually adding/fixing/missing publications. More information can be found at [Citations | Lab Website Template Documentation](https://greene-lab.gitbook.io/lab-website-template-docs/basics/citations). *Manubot will try it's best to pull from these sources automatically but it can make mistakes*.
+- Resources: `resources/index.md` and create new posts in `_posts/` using the format `YYYY-MM-DD-resource-title.md`. You can also categorize resources by adding categories in the front matter of each post and make all sorts of embedddings in posts by leveraging [Jekyll SpaceShip](https://github.com/jeffreytse/jekyll-spaceship).
 
 ## Troubleshooting
-If you encounter any issues while editing or deploying the website, please refer to the [Lab Website Template Documentation](https://greene-lab.gitbook.io/lab-website-template-docs) for basic documentation tips. You can also check `_data/types.yaml` to check for known configurations. You can also open an issue in this repository for further assistance.
+If you encounter any issues while editing or deploying the website, please refer to the [Lab Website Template Documentation](https://greene-lab.gitbook.io/lab-website-template-docs) for basic documentation tips or check `_data/types.yaml` to check for known configurations. You can also open an issue or pull request in this repository for further assistance.
 
 Known issues with local preview:
 - GIT: Please ensure that [git](https://git-scm.com/install/) is installed and that it is configured to not have trailing spaces as there is a known issue with git adding trailing spaces in the wrong slashs when changing the environment type (Linux vs Windows) causes in entrypoint.sh to break.
@@ -57,7 +64,7 @@ Known issues with local preview:
     git config --global core.autocrlf input
     ```
     
-- GIT: Please ensure that your git user name and email are configured to ensure that GitHub pushes and pull request are correctly attributed. If you don't have them configured, it may not allow you to commit changes. You can do this by running the following commands in command line:
+- GIT: Please ensure that your git user name and email are configured to ensure that GitHub push and pull requests are correctly attributed. If you don't have them configured, it may not allow you to commit changes. You can do this by running the following commands in command line:
     ```
     git config --global user.name "Your Name"
     git config --global user.email "your.email@example.com"
