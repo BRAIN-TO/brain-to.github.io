@@ -16,6 +16,14 @@
 
 - id: doi:10.1016/j.pscychresns.2024.111915
 
+- title: Advancing Clinical and Neuroscientific and Research Through Accessible and Optimized Protocol Design at 3T
+  authors:
+    - Sriranga Kashyap
+    - Kamil Uludag
+  publisher: MAGNETOM Flash
+  date: 2023-3-1
+  link: https://marketing.webassets.siemens-healthineers.com/ed15b22a01ec5497/ef408bcafa80/siemens-healthineers-magnetom-world-Kashyap_Uludag_BRAIN-TO_protocols.pdf
+
 # manually provide all citation details (can be a new citation)
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper

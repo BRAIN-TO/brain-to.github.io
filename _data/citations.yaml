@@ -3082,6 +3082,16 @@
   link: https://doi.org/hbnd4s
   plugin: sources.py
   file: sources.yaml
+- title: Advancing Clinical and Neuroscientific and Research Through Accessible and
+    Optimized Protocol Design at 3T
+  authors:
+  - Sriranga Kashyap
+  - Kamil Uludag
+  publisher: MAGNETOM Flash
+  date: '2023-03-01'
+  link: https://marketing.webassets.siemens-healthineers.com/ed15b22a01ec5497/ef408bcafa80/siemens-healthineers-magnetom-world-Kashyap_Uludag_BRAIN-TO_protocols.pdf
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
