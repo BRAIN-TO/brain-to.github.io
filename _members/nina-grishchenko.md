@@ -10,4 +10,5 @@ aliases:
   - Nina Grishchenko
 links:
   google-scholar: https://scholar.google.ca/citations?user=3EaGUmsAAAAJ&hl=en&oi=ao
+  linkedin: https://www.linkedin.com/in/ninagrishchenko/
 ---
