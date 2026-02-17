@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:41672276
+  title: Microstructural, morphological, and metabolic changes following magnetic
+    resonance guided focused ultrasound capsulotomy.
+  authors:
+  - Benjamin Davidson
+  - Andrew Clappison
+  - Karim Mithani
+  - Leonardo Favi Bocca
+  - Peter Giacobbe
+  - Sean Nestor
+  - Ying Meng
+  - Julie Ottoy
+  - Jennifer S Rabin
+  - Matthew Burke
+  - Kamil Uludag
+  - Clement Hamani
+  - Nir Lipsman
+  - Maged Goubran
+  publisher: Biological psychiatry. Cognitive neuroscience and neuroimaging
+  date: '2026-02-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41672276
+  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
+    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:40883879
   title: A network-assisted joint image and motion estimation approach for robust
     3D MRI motion correction across severity levels.
