@@ -9,6 +9,6 @@ aliases:
   - N. Grishchenko
   - Nina Grishchenko
 links:
-  google-scholar: https://scholar.google.ca/citations?user=3EaGUmsAAAAJ&hl=en&oi=ao
+  google-scholar: 3EaGUmsAAAAJ&hl=en&oi=ao
   linkedin: ninagrishchenko/
 ---

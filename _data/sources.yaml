@@ -23,6 +23,19 @@
   publisher: MAGNETOM Flash
   date: 2023-3-1
   link: https://marketing.webassets.siemens-healthineers.com/ed15b22a01ec5497/ef408bcafa80/siemens-healthineers-magnetom-world-Kashyap_Uludag_BRAIN-TO_protocols.pdf
+  buttons:
+    - type: source
+      text: Repository
+      link: https://github.com/BRAIN-TO/bto_mri_protocols_info
+
+- id: doi:10.21105/joss.05877
+  buttons:
+    - type: source
+      text: Repository
+      link: https://github.com/BRAIN-TO/GIRFReco.jl
+    - type: website
+      link: https://brain-to.github.io/GIRFReco.jl/dev/
+  repo: 'BRAIN-TO/GIRFReco.jl'
 
 # manually provide all citation details (can be a new citation)
 - id: doi:10.1371/journal.pcbi.1007128
