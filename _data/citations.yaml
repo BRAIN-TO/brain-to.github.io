@@ -795,7 +795,7 @@
   - Kamil Uludag
   - Essa Yacoub
   - Federico De Martino
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-01-10'
   link: https://doi.org/hbdbm4
   orcid: 0000-0002-2813-5930
@@ -833,7 +833,7 @@
   - S. Kashyap
   - S.G. Kim
   - "K. Uluda\u011F"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-08-26'
   link: https://doi.org/hbdbm6
   orcid: 0000-0003-0307-9773
@@ -848,7 +848,7 @@
   - Sriranga Kashyap
   - "\u013Acaro Agenor Ferreira Oliveira"
   - "K\xE2mil Uluda\u011F"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-08-05'
   link: https://doi.org/hbdbm7
   orcid: 0000-0003-0307-9773
@@ -937,7 +937,7 @@
   - J.A. Fisher
   - D.J. Mikulis
   - O. Sobczyk
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-11-10'
   link: https://doi.org/gsz3pj
   orcid: 0000-0002-2813-5930
@@ -955,7 +955,7 @@
   - Jacobus FA. Jansen
   - Hubert JM. Smeets
   - "K\xE2mil Uluda\u011F"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-04-30'
   link: https://doi.org/hbdbnc
   orcid: 0000-0002-2813-5930
@@ -1033,7 +1033,7 @@
   - R. Dharmakumar
   - J.A. Fisher
   - D.J. Mikulis
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-08-26'
   link: https://doi.org/gsw62f
   orcid: 0000-0002-2813-5930
@@ -1050,7 +1050,7 @@
   - Laurentius Huber
   - Benedikt A. Poser
   - "K\xE2mil Uluda\u011F"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-08-24'
   link: https://doi.org/gsx9c7
   orcid: 0000-0003-0307-9773
@@ -1090,7 +1090,7 @@
   - Andrew G. Parrent
   - Terry M. Peters
   - Ali R. Khan
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-03-26'
   link: https://doi.org/gkz7cr
   orcid: 0000-0002-2813-5930
@@ -1098,8 +1098,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.02.13.947382
-  title: Effects of MP2RAGE B<sub>1</sub><sup>+</sup>sensitivity on inter-site T<sub>1</sub>reproducibility
-    and morphometry at 7T
+  title: "Effects of MP2RAGE B\n                  <sub>1</sub>\n                 \
+    \ <sup>+</sup>\n                  sensitivity on inter-site T\n              \
+    \    <sub>1</sub>\n                  reproducibility and morphometry at 7T"
   authors:
   - Roy AM Haast
   - Jonathan C Lau
@@ -1107,7 +1108,7 @@
   - Ravi S Menon
   - "K\xE2mil Uluda\u011F"
   - Ali R Khan
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-02-14'
   link: https://doi.org/gk3scq
   orcid: 0000-0002-2813-5930
@@ -1219,7 +1220,7 @@
   - Omer Faruk Gulban
   - Dimo Ivanov
   - "K\xE2mil Uluda\u011F"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-05-30'
   link: https://doi.org/gkxh64
   orcid: 0000-0002-2813-5930
@@ -1231,7 +1232,7 @@
   authors:
   - Martin Havlicek
   - Kamil Uludag
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-04-15'
   link: https://doi.org/gkwckg
   orcid: 0000-0002-2813-5930
