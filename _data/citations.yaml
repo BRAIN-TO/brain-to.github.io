@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:41835944
+  title: Evaluating the quality of brainstem ROI registration using structural and
+    diffusion MRI.
+  authors:
+  - Yi-An A Chen
+  - Lars Kasper
+  - Clement T Chow
+  - Yu Kuo
+  - Alexandre Boutet
+  - "J\xFCrgen Germann"
+  - Andres M Lozano
+  - "K\xE2mil Uluda\u011F"
+  - Andreea O Diaconescu
+  - Sriranga Kashyap
+  publisher: Frontiers in neuroscience
+  date: '2026-02-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41835944
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:41672276
   title: Microstructural, morphological, and metabolic changes following magnetic
     resonance guided focused ultrasound capsulotomy.
@@ -21,8 +42,8 @@
   publisher: Biological psychiatry. Cognitive neuroscience and neuroimaging
   date: '2026-02-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/41672276
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:40883879
@@ -37,8 +58,8 @@
   publisher: Magnetic resonance in medicine
   date: '2025-08-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40883879
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:40800338
@@ -50,8 +71,8 @@
   publisher: Imaging neuroscience (Cambridge, Mass.)
   date: '2024-09-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40800338
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:39963739
@@ -71,8 +92,8 @@
   publisher: Magnetic resonance in medicine
   date: '2025-02-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39963739
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:39829870
@@ -93,8 +114,8 @@
   publisher: 'bioRxiv : the preprint server for biology'
   date: '2025-01-09'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39829870
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:39826636
@@ -122,8 +143,8 @@
   publisher: Brain stimulation
   date: '2025-01-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39826636
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:39602889
@@ -149,8 +170,8 @@
   publisher: Stereotactic and functional neurosurgery
   date: '2024-11-27'
   link: https://www.ncbi.nlm.nih.gov/pubmed/39602889
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:40800542
@@ -266,8 +287,8 @@
   publisher: Imaging neuroscience (Cambridge, Mass.)
   date: '2024-04-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/40800542
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:38235379
@@ -280,8 +301,8 @@
   publisher: Frontiers in physiology
   date: '2024-01-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/38235379
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:37554650
@@ -300,8 +321,8 @@
   publisher: Frontiers in neuroimaging
   date: '2023-02-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37554650
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:37356779
@@ -312,8 +333,8 @@
   publisher: NeuroImage
   date: '2023-06-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37356779
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:37081247
@@ -338,8 +359,8 @@
   publisher: Magma (New York, N.Y.)
   date: '2023-04-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37081247
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:36936613
@@ -352,8 +373,8 @@
   publisher: Frontiers in human neuroscience
   date: '2023-03-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36936613
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:36651306
@@ -366,8 +387,8 @@
   publisher: 'Journal of magnetic resonance imaging : JMRI'
   date: '2023-01-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36651306
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:36308389
@@ -387,8 +408,8 @@
   publisher: Human brain mapping
   date: '2022-10-29'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36308389
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:36243267
@@ -403,8 +424,8 @@
   publisher: NeuroImage
   date: '2022-10-13'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36243267
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:34687064
@@ -426,8 +447,8 @@
   publisher: Magnetic resonance in medicine
   date: '2021-10-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34687064
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:34324976
@@ -442,8 +463,8 @@
   publisher: NeuroImage
   date: '2021-07-27'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34324976
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:33930519
@@ -454,8 +475,8 @@
   publisher: Progress in neurobiology
   date: '2021-04-27'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33930519
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:33901230
@@ -471,8 +492,8 @@
   publisher: PloS one
   date: '2021-04-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33901230
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:33104248
@@ -490,8 +511,8 @@
   publisher: Magnetic resonance in medicine
   date: '2020-10-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33104248
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:33090274
@@ -507,8 +528,8 @@
   publisher: Brain structure & function
   date: '2020-10-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33090274
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:32949709
@@ -523,8 +544,8 @@
   publisher: NeuroImage
   date: '2020-09-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32949709
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:32677751
@@ -544,8 +565,8 @@
   publisher: Human brain mapping
   date: '2020-07-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32677751
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:32579109
@@ -562,8 +583,8 @@
   publisher: eLife
   date: '2020-06-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32579109
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:32512115
@@ -584,8 +605,8 @@
   publisher: Progress in neurobiology
   date: '2020-06-05'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32512115
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:32496189
@@ -602,8 +623,8 @@
   publisher: eLife
   date: '2020-06-04'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32496189
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:31866855
@@ -619,8 +640,8 @@
   publisher: Frontiers in aging neuroscience
   date: '2019-12-04'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31866855
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:31546051
@@ -631,8 +652,8 @@
   publisher: NeuroImage
   date: '2019-09-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31546051
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:31388558
@@ -672,8 +693,8 @@
   publisher: Alzheimer's & dementia (Amsterdam, Netherlands)
   date: '2019-07-31'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31388558
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:31327002
@@ -725,8 +746,8 @@
   publisher: 'Brain : a journal of neurology'
   date: '2019-09-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31327002
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:28966978
@@ -745,8 +766,8 @@
   publisher: eNeuro
   date: '2017-09-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28966978
-  term: ((((Sunnybrook[Affiliation]) OR (Techna Institute[Affiliation])) OR (University
-    of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
 - id: doi:10.64898/2025.12.06.692728
