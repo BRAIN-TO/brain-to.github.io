@@ -656,47 +656,6 @@
     OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
-- id: pubmed:31388558
-  title: European Ultrahigh-Field Imaging Network for Neurodegenerative Diseases (EUFIND).
-  authors:
-  - "Emrah D\xFCzel"
-  - Julio Acosta-Cabronero
-  - David Berron
-  - Geert Jan Biessels
-  - "Isabella Bj\xF6rkman-Burtscher"
-  - Michel Bottlaender
-  - Richard Bowtell
-  - Mark V Buchem
-  - Arturo Cardenas-Blanco
-  - Fawzi Boumezbeur
-  - Dennis Chan
-  - Stuart Clare
-  - Mauro Costagli
-  - Ludovic de Rochefort
-  - Ariane Fillmer
-  - Penny Gowland
-  - Oskar Hansson
-  - Jeroen Hendrikse
-  - Oliver Kraff
-  - Mark E Ladd
-  - Itamar Ronen
-  - Esben Petersen
-  - James B Rowe
-  - Hartwig Siebner
-  - Tony Stoecker
-  - Sina Straub
-  - Michela Tosetti
-  - Kamil Uludag
-  - Alexandre Vignaud
-  - Jaco Zwanenburg
-  - Oliver Speck
-  publisher: Alzheimer's & dementia (Amsterdam, Netherlands)
-  date: '2019-07-31'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/31388558
-  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
-    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
-  plugin: pubmed.py
-  file: pubmed.yaml
 - id: pubmed:31327002
   title: Locus coeruleus imaging as a biomarker for noradrenergic dysfunction in neurodegenerative
     diseases.
