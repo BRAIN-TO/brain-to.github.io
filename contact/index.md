@@ -12,8 +12,8 @@ Our lab is proudly supported by the [University Health Network (UHN)](http://www
 {%
   include button.html
   type="email"
-  text="Kamil.Uludag@uhn.ca"
-  link="Kamil.Uludag@uhn.ca"
+  text="kamil.uludag@utoronto.ca"
+  link="kamil.uludag@utoronto.ca"
 %}
 
 {% comment %}
