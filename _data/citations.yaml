@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:41972254
+  title: 'Editorial: Advancing high-resolution 3T MRI for cognitive and clinical neuroscience.'
+  authors:
+  - Sriranga Kashyap
+  - Atena Akbari
+  - Irati Markuerkiaga
+  - David G Norris
+  - "K\xE2mil Uludag"
+  - Maria Guidi
+  publisher: Frontiers in neuroscience
+  date: '2026-03-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41972254
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:41835944
   title: Evaluating the quality of brainstem ROI registration using structural and
     diffusion MRI.
