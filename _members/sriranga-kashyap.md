@@ -1,13 +1,13 @@
 ---
 name: Sriranga Kashyap
 image: images/sriranga.jpg
-role: postdoc
-affiliation: University Health Network
-description: Scientific Associate
+role: principal investigator
+affiliation: Sunnybrook Research Institute
+description: Junior Scientist
 group: 
 links:
   github: srikash
-  google-scholar: 3pCgJq4AAAAJ&hl=en
+  google-scholar: Nq_VhZYAAAAJ&hl=en
   orcid: 0000-0003-0307-9773
   twitter: srirangakashyap
 aliases:
