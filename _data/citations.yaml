@@ -38,8 +38,8 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:41672276
-  title: Microstructural, morphological, and metabolic changes following magnetic
-    resonance guided focused ultrasound capsulotomy.
+  title: Microstructural, Morphological, and Metabolic Changes Following Magnetic
+    Resonance-Guided Focused Ultrasound Capsulotomy.
   authors:
   - Benjamin Davidson
   - Andrew Clappison
