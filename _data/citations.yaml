@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42191715
+  title: Predictive acoustical processing in human cortical layers.
+  authors:
+  - Lonike K Faes
+  - Isma Zulfiqar
+  - Luca Vizioli
+  - Zidan Yu
+  - Yuan-Hao Wu
+  - Jiyun N Shin
+  - Martijn A Cloos
+  - Ryszard Auksztulewicz
+  - Lucia Melloni
+  - Kamil Uludag
+  - Essa Yacoub
+  - Federico De Martino
+  publisher: Nature communications
+  date: '2026-05-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42191715
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:41972254
   title: 'Editorial: Advancing high-resolution 3T MRI for cognitive and clinical neuroscience.'
   authors:
@@ -786,6 +808,28 @@
     OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
+- id: doi:10.1038/s41467-026-73540-z
+  title: Predictive acoustical processing in human cortical layers
+  authors:
+  - Lonike K. Faes
+  - Isma Zulfiqar
+  - Luca Vizioli
+  - Zidan Yu
+  - Yuan-hao Wu
+  - Jiyun N. Shin
+  - Martijn A. Cloos
+  - Ryszard Auksztulewicz
+  - Lucia Melloni
+  - Kamil Uludag
+  - Essa Yacoub
+  - Federico De Martino
+  publisher: Nature Communications
+  date: '2026-05-26'
+  link: https://doi.org/hb563d
+  orcid: 0000-0002-2813-5930
+  kamil-uludag: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2025.12.06.692728
   title: Multiscale characterisation of the human claustrum from histology to MRI
   authors:
