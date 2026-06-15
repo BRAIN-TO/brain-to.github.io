@@ -38,6 +38,36 @@
     OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
+- id: pubmed:41945489
+  title: Safety of 3 Tesla Magnetic Resonance Imaging in Active Peripheral Nerve Field
+    Stimulation Device for Facial Pain.
+  authors:
+  - Clement T Chow
+  - Can Sarica
+  - Benson Yang
+  - Brendan Santyr
+  - Riccardo Ludovichetti
+  - Kimia Pourhossein
+  - Sriranga Kashyap
+  - Michael Colditz
+  - Aaron Loh
+  - "J\xFCrgen Germann"
+  - Asma Naheed
+  - Artur Vetkas
+  - "K\xE2mil Uluda\u011F"
+  - Christian Iorio-Morin
+  - Michelle Paff
+  - Simon J Graham
+  - Alexandre Boutet
+  - Andres M Lozano
+  - Mojgan Hodaie
+  publisher: Stereotactic and functional neurosurgery
+  date: '2026-04-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41945489
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:41835944
   title: Evaluating the quality of brainstem ROI registration using structural and
     diffusion MRI.
@@ -808,6 +838,27 @@
     OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
   plugin: pubmed.py
   file: pubmed.yaml
+- id: doi:10.64898/2026.06.08.26355136
+  title: "The impact of B\n                  <sub>1</sub>\n                  <sup>+</sup>\n\
+    \                  inhomogeneity on image quality metrics and morphometric statistical\
+    \ inferences at 7 T MRI"
+  authors:
+  - Kai Liu
+  - "K\u0203mil Uluda\u01E7"
+  - Irenaeus F.M. de Coo
+  - Hubert J.M. Smeets
+  - Jacobus F.A. Jansen
+  - Elia Formisano
+  - Benedikt A. Poser
+  - Roy A.M. Haast
+  - Dimo Ivanov
+  publisher: openRxiv
+  date: '2026-06-09'
+  link: https://doi.org/hb7pqg
+  orcid: 0000-0002-2813-5930
+  kamil-uludag: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-026-73540-z
   title: Predictive acoustical processing in human cortical layers
   authors:
