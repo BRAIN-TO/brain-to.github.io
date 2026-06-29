@@ -1,5 +1,36 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42323197
+  title: 'A systematic review exploring the safety of deep brain stimulation at MRI
+    field strengths beyond conventional field strengths: Opening the door to new imaging
+    tools for neuromodulation.'
+  authors:
+  - Hezekiah C T Au
+  - Amgad Louka
+  - Sriranga Kashyap
+  - Ricky Zhang
+  - Gufran Mohammed
+  - Aaron Loh
+  - Yan-Hua Su
+  - Diego Martinez
+  - Tiffany A Rodrigues
+  - Garene Matossian
+  - "J\xFCrgen Germann"
+  - Mojgan Hodaie
+  - "K\xE2mil Uluda\u011F"
+  - Taufik Valiante
+  - Suneil K Kalia
+  - Andres M Lozano
+  - Max Wintermark
+  - Ian Connell
+  - Alexandre Boutet
+  publisher: AJNR. American journal of neuroradiology
+  date: '2026-06-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42323197
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:42191715
   title: Predictive acoustical processing in human cortical layers.
   authors:
