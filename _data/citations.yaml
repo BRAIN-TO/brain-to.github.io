@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42372138
+  title: Multiscale characterization of the human claustrum from histology to MRI.
+  authors:
+  - Navona Calarco
+  - Skerdi Progri
+  - Sriranga Kashyap
+  - Shuting Xie
+  - Claude Lepage
+  - Donna Gift Cabalo
+  - Boris C Bernhardt
+  - Alan C Evans
+  - "K\xE2mil Uluda\u011F"
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2026-06-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42372138
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:42323197
   title: 'A systematic review exploring the safety of deep brain stimulation at MRI
     field strengths beyond conventional field strengths: Opening the door to new imaging
@@ -2739,6 +2759,25 @@
   link: https://doi.org/dhxcxh
   orcid: 0000-0002-2813-5930
   kamil-uludag: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2604111123
+  title: Multiscale characterization of the human claustrum from histology to MRI
+  authors:
+  - Navona Calarco
+  - Skerdi Progri
+  - Sriranga Kashyap
+  - Shuting Xie
+  - Claude Lepage
+  - Donna Gift Cabalo
+  - Boris C. Bernhardt
+  - Alan C. Evans
+  - "K\xE2mil Uluda\u011F"
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2026-06-29'
+  link: https://doi.org/hb9j8h
+  orcid: 0000-0003-0307-9773
+  sriranga-kashyap: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1159/000551467
