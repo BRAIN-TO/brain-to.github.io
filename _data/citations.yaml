@@ -2781,8 +2781,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1159/000551467
-  title: Safety of 3 Tesla MRI in active peripheral nerve field stimulation device
-    for facial pain
+  title: Safety of 3 Tesla Magnetic Resonance Imaging in Active Peripheral Nerve Field
+    Stimulation Device for Facial Pain
   authors:
   - Clement T. Chow
   - Can Sarica
