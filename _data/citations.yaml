@@ -1,5 +1,41 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42600178
+  title: 'Letter to the Editor. Functional MRI of DBS using monopolar stimulation:
+    contextualizing recent phantom findings.'
+  authors:
+  - Aaron Loh
+  - Garene A Matossian
+  - Brendan Santyr
+  - Afis Ajala
+  - Radhika Madhavan
+  - "J\xFCrgen Germann"
+  - Gavin Elias
+  - Renato P Munhoz
+  - Alfonso Fasano
+  - Amgad Louka
+  - Benson Yang
+  - Robert Jech
+  - Ileana Hancu
+  - Marisa DiMarzio
+  - Julie G Pilitsis
+  - Simon J Graham
+  - Benjamin Davidson
+  - Kamil Uludag
+  - Mojgan Hodaie
+  - Suneil K Kalia
+  - Luka Milosevic
+  - Ian R O Connell
+  - Sriranga Kashyap
+  - Andres M Lozano
+  - Alexandre Boutet
+  publisher: Journal of neurosurgery
+  date: '2026-08-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42600178
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:42372138
   title: Multiscale characterization of the human claustrum from histology to MRI.
   authors:
