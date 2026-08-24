@@ -968,6 +968,25 @@
   kamil-uludag: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.2139/ssrn.7303838
+  title: "Free-water Diffusion and Quantitative T1 mapping in FTLD \u2013 Preliminary\
+    \ Data"
+  authors:
+  - Vishaal Sumra
+  - Sriranga Kashyap
+  - Nico  Paulo Damal
+  - Alonso  Morales Rivero
+  - Abeer Khoka
+  - Kamil Uludag
+  - Maria  Carmela Tartaglia
+  publisher: Elsevier BV
+  date: '2026-01-01'
+  link: https://doi.org/hcgk8w
+  orcid: 0000-0003-0307-9773
+  kamil-uludag: true
+  plugin: orcid.py
+  file: orcid.yaml
+  sriranga-kashyap: true
 - id: doi:10.64898/2025.12.06.692728
   title: Multiscale characterisation of the human claustrum from histology to MRI
   authors:
