@@ -16,5 +16,5 @@ This inaugrual symposium marks the launch of one of only three human 7T MRI faci
 
 # Links
 - Registration: [Eventbrite](https://to7tmri-oss.eventbrite.ca)
-- Agenda: [Schedule](/resources/7t-symposium-agenda.pdf) last updated 24 AUG 2026.
+- Agenda: [Schedule](/resources/7t-symposium-agenda.pdf) last updated 26 AUG 2026.
 - Recordings: *To be published after the symposium.*
