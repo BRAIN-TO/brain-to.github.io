@@ -7,6 +7,7 @@ description: Research Technician
 group: 
 links:
 aliases:
+- J. Poublanc
 ---
 Julien Poublanc received his BSc in Physics and his MSc in Medical Imaging (Structural, metabolic and functional) from Université Paul-Sabatier in Toulouse, France, in 2001. He completed his final year of undergraduate studies as an exchange student at the University of Waterloo and carried out his MSc research project, “Perfusion and Cerebral Activation Using Arterial Spin Labeling,” at Toronto Western Hospital.
 

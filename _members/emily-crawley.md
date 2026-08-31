@@ -2,9 +2,9 @@
 name: Emily Crawley
 image: images/emily.jpg
 role: staff
-affiliation: University Health Network
+affiliation: 
 description: Research Analyst
-group: 
+group: alum
 links:
 aliases:
 ---

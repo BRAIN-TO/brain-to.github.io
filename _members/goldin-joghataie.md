@@ -2,9 +2,9 @@
 name: Goldin Joghataie
 image: images/goldin.jpg
 role: staff
-affiliation: University Health Network
+affiliation:
 description: Research Analyst
-group: 
+group: alum
 links:
 aliases:
 ---

@@ -7,7 +7,7 @@ description: Post-Doctoral Fellow
 group: 
 links:
 aliases:
-- Jacob Schulman
+- Jacob Benjamin Schulman
 - Jacob B. Schulman
 - J. Schulman
 - J.B. Schulman
