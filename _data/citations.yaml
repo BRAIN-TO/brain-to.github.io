@@ -1,5 +1,32 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42692166
+  title: 'Multi-target focused ultrasound neuromodulation of a subcallosal cingulate
+    mediated depression network: A case study using personalized functional mapping.'
+  authors:
+  - Benjamin Davidson
+  - Ryan M Jones
+  - Dallan McMahon
+  - Kristiana Xhima
+  - Leonardo Favi Bocca
+  - Yuexi Huang
+  - Soraly Blanco
+  - Christopher B Pople
+  - Peter Giacobbe
+  - Sean M Nestor
+  - Jennifer S Rabin
+  - Clement Hamani
+  - Kamil Uludag
+  - Maged Goubran
+  - Kullervo Hynynen
+  - Nir Lipsman
+  publisher: Brain stimulation
+  date: '2026-09-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42692166
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:42600178
   title: 'Letter to the Editor. Functional MRI of DBS using monopolar stimulation:
     contextualizing recent phantom findings.'
