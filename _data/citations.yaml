@@ -1,5 +1,33 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42757837
+  title: Optimized Brain Functional MRI for Patients With Deep Brain Stimulation Systems.
+  authors:
+  - Clement T Chow
+  - Sriranga Kashyap
+  - Brendan Santyr
+  - Benson Yang
+  - "J\xFCrgen Germann"
+  - Michael Colditz
+  - Aaron Loh
+  - Garene Matossian
+  - Sarah Varughese
+  - Nicole Owsicki
+  - Asma Naheed
+  - Jianwei Qiu
+  - Afis Ajala
+  - Michelle Paff
+  - Simon J Graham
+  - "K\xE2mil Uluda\u011F"
+  - Andres M Lozano
+  - Alexandre Boutet
+  publisher: Neurosurgery
+  date: '2026-09-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42757837
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:42692166
   title: 'Multi-target focused ultrasound neuromodulation of a subcallosal cingulate
     mediated depression network: A case study using personalized functional mapping.'
