@@ -1,8 +1,8 @@
 ---
-name: #your-full-name
+name: #your-full-name and duplicate the file and rename it with your name, e.g., john-doe.md
 image: images/ #add-your-image-file.ext and place it in the images/ folder (please make sure you use the correct file extension and name. If you overwrite an existing file, please make sure it is not used by another member)
 role: postdoc/phd/grad/staff/undergrad #Select the most relevant of the roles defined in types.yaml based on your position and highest degree
-affiliation: #Enter Your Primary Affiliation
+affiliation: University Health Network/ Sunnybrook Research Institute/University of Toronto #Enter Your Primary Affiliation
 description: #Enter Your Position or Title
 group: #Only add if you belong to a specific group, e.g., 'alum'
 links: #Do not include the main URL for any known link types, this is added automatically in types.yaml
