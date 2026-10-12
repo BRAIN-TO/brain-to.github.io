@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42859279
+  title: Characterizing hippocampal activation during pattern separation with multi-echo
+    fMRI in cognitively normal older adults.
+  authors:
+  - Kevin Grant Solar
+  - Sriranga Kashyap
+  - Nicolas Deom
+  - "K\xE2mil Uluda\u011F"
+  - Ljubica Zotovic
+  - "Krista Lanct\xF4t"
+  - Sandra E Black
+  - Mary Pat McAndrews
+  publisher: Brain imaging and behavior
+  date: '2026-10-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42859279
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:42757837
   title: Optimized Brain Functional MRI for Patients With Deep Brain Stimulation Systems.
   authors:
