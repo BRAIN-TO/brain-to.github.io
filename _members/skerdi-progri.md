@@ -3,7 +3,7 @@ name: Skerdi Progri
 image: images/skerdi.jpg
 role: staff
 affiliation: University Health Network
-description: Research Assistant
+description: Research Analyst
 group: 
 links:
 aliases:
