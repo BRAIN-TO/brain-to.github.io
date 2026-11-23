@@ -1,5 +1,52 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:43061756
+  title: 'Harmonised approaches to cognitive impairment assessment in systemic lupus
+    erythematosus: Challenges and future directions.'
+  authors:
+  - Michelle Barraclough
+  - Shane McKie
+  - Leticia Rittner
+  - Andrea M Knight
+  - Patricia Katz
+  - John Hanly
+  - Alexandra Legge
+  - Meggan Mackay
+  - Chrisanna Dobrowolski
+  - Hermine Brunner
+  - John D Fisk
+  - Kamil Uludag
+  - Ekemini A Ogbu
+  - Chris Wincup
+  - Marcello Govoni
+  - Alessandra Bortoluzzi
+  - Ettore Silvagni
+  - Lesley Ruttan
+  - Kathleen S Bingham
+  - Robin E A Green
+  - Carmela Tartaglia
+  - Susan Lee
+  - Diana Valdes Cabrera
+  - Erik Anderson
+  - Mark DiFrancesco
+  - Alberta Hoi
+  - Sudha Raghunath
+  - Elizabeth Kozora
+  - Xiang He
+  - Anselm Mak
+  - Chaim Putterman
+  - Rebecca Elliott
+  - Ben Parker
+  - Ian Bruce
+  - Zahi Touma
+  - Simone Appenzeller
+  publisher: Lupus
+  date: '2026-11-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/43061756
+  term: ((((Sunnybrook[Affiliation]) OR (University Health Network[Affiliation]))
+    OR (University of Toronto[Affiliation])) AND (Uludag, Kamil[Author]))
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:42859279
   title: Characterizing hippocampal activation during pattern separation with multi-echo
     fMRI in cognitively normal older adults.
